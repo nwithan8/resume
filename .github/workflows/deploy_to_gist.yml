@@ -1,0 +1,19 @@
+name: Deploy resume to GitHub Gist
+on:
+  push:
+    branches:
+      - master
+jobs:
+  deploy_to_gist:
+    name: Deploy resume to GitHub Gist
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+      - name: Deploy resume.json to GitHub Gist
+        uses: exuanbo/actions-deploy-gist@v1
+        with:
+          token: ${{ secrets.TOKEN }}
+          gist_id: 65f296251b18fca7f443268578a8529f
+          file_path: resume.json
+          file_type: text

@@ -1,0 +1,656 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Nathan Harris",
+    "label": "Software Engineer || PSM I",
+    "image": "",
+    "email": "n8gr8gbln@gmail.com",
+    "phone": "4049097586",
+    "url": "https://github.com/nwithan8",
+    "summary": "Blending my two loves, the fast-paced, high-stakes world of journalism and the fast-paced, high-stakes world of software development.\n\n\"Dedicated to combating misinformation.\"",
+    "location": {
+      "countryCode": "US",
+      "address": "United States"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "nwithan8",
+        "url": "https://www.linkedin.com/in/nwithan8/"
+      },
+      {
+        "network": "Twitter",
+        "username": "nwithan8",
+        "url": "https://twitter.com/nwithan8"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "EasyPost",
+      "position": "Software Engineer",
+      "startDate": "2021-11-30",
+      "endDate": "",
+      "highlights": [],
+      "summary": "Developing EasyPost's open source API client libraries (Java, C#, Python, Node.JS, Ruby, Go, PHP), adding features, ensuring functionality parity, and generally making it dirt-simple for retailers to integrate with EasyPost services.\n\nEngineering a number of open-source tools for the FOSS community.",
+      "url": "https://www.linkedin.com/company/easypost/",
+      "location": "Denver, Colorado, United States"
+    },
+    {
+      "name": "Technically Speaking",
+      "position": "Podcaster",
+      "startDate": "2016-09-30",
+      "endDate": "",
+      "highlights": [],
+      "summary": "Host of the \"Technically Speaking\" podcast and weekly \"Tech Chat\" on YouTube, discussing the latest tech news and personal projects with friends.\n\nPodcast: https://feeds.feedburner.com/technicallyspeakingpodcast\nYouTube: https://www.youtube.com/playlist?list=PLeLjnL2UNyZGub9HyKGGEGKcFC3UhVs5s",
+      "url": ""
+    },
+    {
+      "position": "Open Source Developer",
+      "startDate": "2018-08-31",
+      "endDate": "",
+      "highlights": [],
+      "summary": "Producing and contributing to a number of free and open-source projects, including interactive social media bots, Python API client libraries, Tautulli and Home Assistant.",
+      "url": ""
+    },
+    {
+      "name": "Force 5 Inc.",
+      "position": "Software Developer Analyst",
+      "startDate": "2020-06-30",
+      "endDate": "2021-11-30",
+      "highlights": [],
+      "summary": "Developer on suite of on-site, cross-platform visitor management system applications, including mobile Android/iOS app.\n\nLead team in restructure of backend API.\n\nGo-to for internal DevOps and automation development and implementation.\n\nLanguages/tools used include C#, Xamarin.Forms, Groovy, Java and Grails/Gradle.\n\nLiaison between development team and end users regarding NERC CIP compliance instruments for energy corporation clients.",
+      "url": "https://www.linkedin.com/company/force-5-inc./",
+      "location": "Miami, Florida, United States"
+    },
+    {
+      "name": "Fulton County Government",
+      "position": "Digital Business Transformation Intern",
+      "startDate": "2019-10-31",
+      "endDate": "2020-06-30",
+      "highlights": [],
+      "summary": "Data Analytics: Curated data collection on current and former interns, capstone students and grant workers to assess Center of Excellence performance. Data stored in MS SQL database and analyzed using Tableau and Socrata.\n\nTechnology Integration: Researched and established policy and standard operating procedures for the implementation of new technologies in various county departments, including collaborative iPads and customer service survey kiosks.\n\nDevelopment: Wrote and implemented a Qualtrics API library in Python for use in in-house automation scripts for survey creation, management and response processing.",
+      "url": "https://www.linkedin.com/company/fultoncountygovernment/",
+      "location": "Greater Atlanta Area"
+    },
+    {
+      "name": "Gannett | USA TODAY NETWORK",
+      "position": "Community Reporter",
+      "startDate": "2018-07-31",
+      "endDate": "2019-03-31",
+      "highlights": [],
+      "summary": "Community reporter, covering local city and county government, school and community boards and crime.",
+      "url": "https://www.linkedin.com/company/gannett/",
+      "location": "Zanesville, OH"
+    },
+    {
+      "name": "CNN",
+      "position": "TV Apps Intern",
+      "startDate": "2018-06-30",
+      "endDate": "2018-07-31",
+      "highlights": [],
+      "summary": "Worked with the TV Apps development team to produce, update and debug the CNNgo app on Apple TV, Roku, Fire TV, Android TV and Samsung TV platforms.",
+      "url": "https://www.linkedin.com/company/cnn/",
+      "location": "Atlanta, GA"
+    },
+    {
+      "name": "The Red & Black Publishing Co.",
+      "position": "Lead Investigative Reporter",
+      "startDate": "2018-01-31",
+      "endDate": "2018-05-31",
+      "highlights": [],
+      "summary": "Lead the investigative and enterprise reporting team, bringing my experience from The Red & Black, Flagpole Magazine, The Atlanta Journal-Constitution and the Georgia News Lab investigative course to train and oversee a new team of junior and senior writers.",
+      "url": "https://www.linkedin.com/company/the-red-&-black-newspaper/",
+      "location": "Athens, Georgia Area"
+    },
+    {
+      "name": "The Red & Black",
+      "position": "News Writer",
+      "startDate": "2014-09-30",
+      "endDate": "2018-05-31",
+      "highlights": [],
+      "summary": "Attend weekly meetings. Take responsibility for researching and writing articles, getting in contact with sources, keep editors updated about progress. Articles due weekly.",
+      "url": "https://www.linkedin.com/company/the-red-&-black-newspaper/",
+      "location": "Athens, Georgia"
+    },
+    {
+      "name": "The Red & Black",
+      "position": "Senior Reporter",
+      "startDate": "2016-12-31",
+      "endDate": "2017-05-31",
+      "highlights": [],
+      "summary": "One of four senior reporters focused on longer-form front-page stories. Particular focus on Georgia politics and legislation that impacts college students (i.e. HOPE Scholarship funding, campus carry).\n\nAlso a go-to reporter for breaking news and crime reports.",
+      "url": "https://www.linkedin.com/company/the-red-&-black-newspaper/",
+      "location": "Athens, Georgia"
+    },
+    {
+      "name": "The Red & Black",
+      "position": "News Editor",
+      "startDate": "2016-08-31",
+      "endDate": "2016-12-31",
+      "highlights": [],
+      "summary": "In charge of managing both city and campus news subdesk, writers and assistant editors. In charge of editing daily website content and weekly newspaper articles. Involved in weekly print newspaper production. Lead weekly meetings for writers. Communicate with photo desk, design desk and video desk, as well as other sections if needed.\n\nHeaded massive reporting operation during Election Day 2016.",
+      "url": "https://www.linkedin.com/company/the-red-&-black-newspaper/",
+      "location": "Athens, Georgia"
+    },
+    {
+      "name": "The Red & Black",
+      "position": "City News Editor",
+      "startDate": "2016-01-31",
+      "endDate": "2016-05-31",
+      "highlights": [],
+      "summary": "In charge of managing city news writers, including government writers, economic writers, business writers and crime writers. Also in charge of fact-checking and basic editing of articles for daily online content, breaking news, and weekly print newspapers. Major stories include a missing UGA student which was later found to have committed suicide, a late-night car crash which killed 4 UGA students, the introduction and rallies around an anti-discrimination ordinance in downtown Athens, and coverage of local reaction to and eventual veto of Georgia HB 859 (proposed campus carry) and HB 757 (proposed religious liberty bill).",
+      "url": "https://www.linkedin.com/company/the-red-&-black-newspaper/",
+      "location": "Athens, Georgia"
+    },
+    {
+      "name": "The Red & Black",
+      "position": "Senior City Correspondent",
+      "startDate": "2015-08-31",
+      "endDate": "2015-12-31",
+      "highlights": [],
+      "summary": "Head writer for the City News desk, in charge of big city news stories, as well as collaboration with Senior Campus Correspondent for cross-desk stories. Also picked up smaller city stories that did not fall under specific beats.",
+      "url": "https://www.linkedin.com/company/the-red-&-black-newspaper/",
+      "location": "Athens, Georgia"
+    },
+    {
+      "name": "The Red & Black",
+      "position": "Assistant News Editor",
+      "startDate": "2015-01-31",
+      "endDate": "2015-05-31",
+      "highlights": [],
+      "summary": "In charge of managing crime reporting. Crime beat reporter. Major stories include five student deaths, including a Resident Assistant dying in her room in a UGA dorm, an alcohol poisoning, and a student murdered during a drug deal. Wrote remembrance articles for all three.",
+      "url": "https://www.linkedin.com/company/the-red-&-black-newspaper/",
+      "location": "Athens, Georgia"
+    },
+    {
+      "name": "Georgia News Lab",
+      "position": "Investigative Reporter",
+      "startDate": "2017-08-31",
+      "endDate": "2018-05-31",
+      "highlights": [],
+      "summary": "Chosen for select group of Georgia journalism students to learn investigative journalism hands-on, producing work for the Atlanta Journal-Constitution and WSB-TV.\nSolo project: Investigation in Atlanta mayoral candidate Ceasar Mitchell.\nGroup project: Investigation into a decade of deaths in local Georgia jails.",
+      "url": "https://www.linkedin.com/company/georgia-news-lab/",
+      "location": "Atlanta, Georgia"
+    },
+    {
+      "name": "Atlanta Journal-Constitution",
+      "position": "Freelance Reporter",
+      "startDate": "2017-12-31",
+      "endDate": "2018-01-31",
+      "highlights": [],
+      "summary": "Cover Athens and University of Georgia-related news remotely, including UGA's 2017 football season and post-season.",
+      "url": "https://www.linkedin.com/company/atlanta-journal-constitution/",
+      "location": "Athens, Georgia Area"
+    },
+    {
+      "name": "Flagpole Magazine",
+      "position": "News Reporter",
+      "startDate": "2017-08-31",
+      "endDate": "2017-12-31",
+      "highlights": [],
+      "summary": "Covered politics and Athens area matters and events, including the House District 119 special election, campus carry at the University of Georgia and discrimination in downtown Athens.",
+      "url": "https://www.linkedin.com/company/flagpole-magazine/",
+      "location": "Athens, Georgia Area"
+    },
+    {
+      "name": "Atlanta Journal-Constitution",
+      "position": "News Reporter",
+      "startDate": "2017-06-30",
+      "endDate": "2017-08-31",
+      "highlights": [],
+      "summary": "Served as Henry County beat reporter, covering county and city board meetings, a school board superintendent controversy and Confederate pride, as well as infant mortality in swimming pools and the new campus carry law, among others.",
+      "url": "https://www.linkedin.com/company/atlanta-journal-constitution/",
+      "location": "Greater Atlanta Area"
+    },
+    {
+      "name": "Neighbor Newspaper",
+      "position": "News Reporter",
+      "startDate": "2014-01-31",
+      "endDate": "2014-05-31",
+      "highlights": [],
+      "summary": "Internship with Neighbor Newspapers, handled calendar events and press release rewrites. Had two original articles published in weekly paper.",
+      "url": "https://www.linkedin.com/company/neighbor-newspaper/",
+      "location": "Roswell, Georgia"
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Grady College of Journalism and Mass Communication, University of Georgia",
+      "area": "Journalism",
+      "studyType": "Bachelor of Arts - BA (A.B.J)",
+      "startDate": "2016-12-31",
+      "endDate": "2018-12-31",
+      "score": "",
+      "courses": [
+        " - Photojournalism",
+        " - Videojournalism",
+        "Honors - Media History",
+        " - Multiplatform Reporting",
+        "Honors - Introduction to News Writing",
+        " - Investigative Reporting",
+        " - New Media Topics",
+        " - Introduction to News Gathering",
+        "Honors - Introduction to Journalism",
+        "Honors - Communication Law",
+        " - Introduction to New Media",
+        " - New Media Production"
+      ]
+    },
+    {
+      "institution": "The University of Georgia",
+      "area": "Minor in Computer Science, New Media Certificate",
+      "studyType": "Bachelor of Journalism (A.B.J.)",
+      "startDate": "2014-12-31",
+      "endDate": "2018-12-31",
+      "score": "3.76 GPA",
+      "courses": [
+        " - Advanced Java",
+        " - Discrete Math",
+        " - Web Programming",
+        " - Introduction to Java"
+      ]
+    },
+    {
+      "institution": "Georgia State University",
+      "area": "Computer Science",
+      "studyType": "Bachelor of Science - BS",
+      "startDate": "2019-12-31",
+      "endDate": "2020-12-31",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Chattahoochee High School",
+      "area": "",
+      "studyType": "High School Diploma",
+      "startDate": "2010-12-31",
+      "endDate": "2014-12-31",
+      "score": "3.76/4.0",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "Best Administration Reporter in the South - Second Place",
+      "date": "2016-05-31",
+      "awarder": "Society of Professional Journalists",
+      "summary": "Received the award from the 66th Annual Green Eyeshade Awards for coverage of the administration at the University of Georgia during my time at The Red & Black."
+    },
+    {
+      "title": "GPEF Scholarship",
+      "date": "2015-04-30",
+      "awarder": "Georgia Press Education Foundation",
+      "summary": "Scholarship for students majoring or intended majoring in journalism at Georgia college."
+    },
+    {
+      "title": "Zell Miller Scholarship",
+      "date": "2014-05-31",
+      "awarder": "State of Georgia",
+      "summary": ""
+    },
+    {
+      "title": "GPEF Scholarship",
+      "date": "2014-04-30",
+      "awarder": "Georgia Press Education Foundation",
+      "summary": "Scholarship for students majoring or intended majoring in journalism at Georgia college."
+    },
+    {
+      "title": "Charter Scholarship",
+      "date": "2013-12-31",
+      "awarder": "University of Georgia",
+      "summary": ""
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Professional Scrum Master I (PSM I)",
+      "issuer": "Scrum.org",
+      "startDate": "2021-06-30",
+      "url": "https://www.scrum.org/certificates/676174"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Henry County Beat Reporter",
+      "publisher": "Atlanta Journal-Constitution",
+      "releaseDate": "",
+      "summary": "",
+      "url": "http://www.ajc.com/"
+    },
+    {
+      "name": "News Reporter",
+      "publisher": "Zanesville Times Recorder",
+      "releaseDate": "",
+      "summary": "",
+      "url": "http://zanesvilletimesrecorder.com"
+    },
+    {
+      "name": "News Reporter",
+      "publisher": "Flagpole Magazine",
+      "releaseDate": "",
+      "summary": "",
+      "url": "http://flagpole.com/"
+    },
+    {
+      "name": "Portfolio",
+      "publisher": null,
+      "releaseDate": "",
+      "summary": "",
+      "url": "https://nwithan8.contently.com/"
+    },
+    {
+      "name": "Various Positions",
+      "publisher": "The Red & Black",
+      "releaseDate": "",
+      "summary": "",
+      "url": "http://www.redandblack.com/"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Python (Programming Language)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Communication",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Journalism",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Writing",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "The Red & Black Publishing Co.",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Storytelling",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Git",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Node.js",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Grails",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Media Relations",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Fact-checking",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Data Analytics",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Writing News Releases",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Research",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Java",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "SQL",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Pycharm",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "PowerPoint",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Mobile Application Development",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Editing",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Microsoft SQL Server",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Software Design",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "PySpark",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Version Control",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Microsoft Office",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Facebook",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "JavaScript",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Groovy",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Scala",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Microsoft Word",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Tableau",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Ubuntu",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Coding Standards",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Scrum",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Microsoft Excel",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "SQLite",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Creative Writing",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Software Development",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Open Source Software",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Breaking News",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Project Management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Linux",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Copy Editing",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Online Journalism",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Leadership",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "HTML",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Problem Solving",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Server Management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "News Writing",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "AP Stylebook",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native Speaker"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": [
+    {
+      "name": "Python Development",
+      "startDate": "2018-07-31",
+      "summary": "Freelance and free-time Python developer, producing a number of open-source API wrapper libraries, automation scripts and self-hosted social media bots.",
+      "url": "https://github.com/nwithan8"
+    },
+    {
+      "name": "Backlog of Georgia Rape Kits",
+      "startDate": "2017-01-31",
+      "summary": "An in-depth look at the cause and progress of a backlog of rape kits at the Georgia Bureau of Investigation following a Georgia General Assembly bill that forced all unsubmitted kits to be submitted to GBI in August 2016.",
+      "url": "http://www.redandblack.com/athensnews/clearing-the-backlog-gbi-flooded-with-unprocessed-rape-kits-following/article_0f24cde8-dde6-11e6-b3d5-43ec143ac4f2.html",
+      "endDate": "2017-01-31"
+    },
+    {
+      "name": "Discrimination at Downtown Athens Bars",
+      "startDate": "2016-01-31",
+      "summary": "The beginning of a year-long continuing story of an Athens ordinance to tackle surfaced accounts of discrimination at downtown Athens, Georgia bars.",
+      "url": "http://www.redandblack.com/athensnews/athens-confronts-downtown-bar-discrimination/article_5f8eca7e-bfcc-11e5-817a-c7120b219d2e.html",
+      "endDate": "2016-01-31"
+    },
+    {
+      "name": "College At All Costs",
+      "startDate": "2017-08-31",
+      "summary": "A website built from the ground up to host a special investigation project into the cost of higher education in the state of Georgia.\n\nI led the team in developing and coding the website, with a specific focus on Javascript functionality.",
+      "url": "http://www.collegeatallcosts.com/index.html",
+      "endDate": "2017-12-31"
+    },
+    {
+      "name": "Proposed Georgia Campus Carry Legislation",
+      "startDate": "2016-01-31",
+      "summary": "Georgia General Assembly proposed HB 859 to allow concealed carry on college campuses. Bill had large disapproval and protests. Main article in multi-piece coverage of protests, legislation updates, and student body surveying.",
+      "url": "http://www.redandblack.com/athensnews/gov-deal-to-decide-on-campus-carry-proposal/article_4c601c50-ebd7-11e5-b0a9-cfb8ba29864f.html",
+      "endDate": "2016-05-31"
+    }
+  ],
+  "meta": {
+    "version": "v1.0.0",
+    "canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json"
+  }
+}
