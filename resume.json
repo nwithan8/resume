@@ -224,7 +224,7 @@
     {
       "institution": "Grady College of Journalism and Mass Communication, University of Georgia",
       "area": "Journalism",
-      "studyType": "Bachelor of Arts - BA (A.B.J)",
+      "studyType": "Bachelor of Arts (A.B.J)",
       "startDate": "2016-12-31",
       "endDate": "2018-12-31",
       "score": "",
@@ -246,7 +246,6 @@
     {
       "institution": "The University of Georgia",
       "area": "Minor in Computer Science, New Media Certificate",
-      "studyType": "Bachelor of Journalism (A.B.J.)",
       "startDate": "2014-12-31",
       "endDate": "2018-12-31",
       "score": "3.76 GPA",
@@ -260,7 +259,7 @@
     {
       "institution": "Georgia State University",
       "area": "Computer Science",
-      "studyType": "Bachelor of Science - BS",
+      "studyType": "Bachelor of Science",
       "startDate": "2019-12-31",
       "endDate": "2020-12-31",
       "score": "",
@@ -268,8 +267,7 @@
     },
     {
       "institution": "Chattahoochee High School",
-      "area": "",
-      "studyType": "High School Diploma",
+      "area": "High School Diploma",
       "startDate": "2010-12-31",
       "endDate": "2014-12-31",
       "score": "3.76/4.0",
