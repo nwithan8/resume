@@ -52,6 +52,7 @@
       "url": "https://www.youtube.com/playlist?list=PLeLjnL2UNyZGub9HyKGGEGKcFC3UhVs5s"
     },
     {
+      "name": "Internet",
       "position": "Open Source Developer",
       "startDate": "2018-08-31",
       "highlights": [],
@@ -316,34 +317,10 @@
   ],
   "publications": [
     {
-      "name": "Henry County Beat Reporter",
-      "publisher": "Atlanta Journal-Constitution",
-      "summary": "",
-      "url": "https://www.ajc.com/"
-    },
-    {
-      "name": "News Reporter",
-      "publisher": "Zanesville Times Recorder",
-      "summary": "",
-      "url": "https://zanesvilletimesrecorder.com"
-    },
-    {
-      "name": "News Reporter",
-      "publisher": "Flagpole Magazine",
-      "summary": "",
-      "url": "https://flagpole.com/"
-    },
-    {
       "name": "Portfolio",
       "publisher": "Self",
       "summary": "",
       "url": "https://nwithan8.contently.com/"
-    },
-    {
-      "name": "Various Positions",
-      "publisher": "The Red & Black",
-      "summary": "",
-      "url": "https://www.redandblack.com/"
     }
   ],
   "skills": [
@@ -427,10 +404,12 @@
       "name": "Journalism",
       "level": "Intermediate",
       "keywords": [
-        "The Red & Black Publishing Co.",
         "Gannett Co. Inc.",
+        "USA Today Network",
+        "CNN",
         "The Atlanta Journal-Constitution",
         "The Zanesville Times Recorder",
+        "The Red & Black Publishing Co.",
         "Flagpole Magazine",
         "Fact-checking",
         "Research",
