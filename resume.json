@@ -3,11 +3,11 @@
   "basics": {
     "name": "Nathan Harris",
     "label": "Software Engineer || PSM I",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/nwithan8/nwithan8.github.io/master/images/headshot_transparent.png",
     "email": "n8gr8gbln@gmail.com",
     "phone": "4049097586",
     "url": "https://github.com/nwithan8",
-    "summary": "Blending my two loves, the fast-paced, high-stakes world of journalism and the fast-paced, high-stakes world of software development.\n\n\"Dedicated to combating misinformation.\"",
+    "summary": "Blending my two loves, the fast-paced, high-stakes world of journalism and the fast-paced, high-stakes world of software development.\n\"Dedicated to combating misinformation.\"",
     "location": {
       "countryCode": "US",
       "address": "United States"
@@ -30,28 +30,33 @@
       "name": "EasyPost",
       "position": "Software Engineer",
       "startDate": "2021-11-30",
-      "endDate": "",
       "highlights": [],
       "summary": "Developing EasyPost's open source API client libraries (Java, C#, Python, Node.JS, Ruby, Go, PHP), adding features, ensuring functionality parity, and generally making it dirt-simple for retailers to integrate with EasyPost services.\n\nEngineering a number of open-source tools for the FOSS community.",
       "url": "https://www.linkedin.com/company/easypost/",
       "location": "Denver, Colorado, United States"
     },
     {
-      "name": "Technically Speaking",
+      "name": "Technically Speaking (Podcast)",
       "position": "Podcaster",
       "startDate": "2016-09-30",
-      "endDate": "",
       "highlights": [],
-      "summary": "Host of the \"Technically Speaking\" podcast and weekly \"Tech Chat\" on YouTube, discussing the latest tech news and personal projects with friends.\n\nPodcast: https://feeds.feedburner.com/technicallyspeakingpodcast\nYouTube: https://www.youtube.com/playlist?list=PLeLjnL2UNyZGub9HyKGGEGKcFC3UhVs5s",
-      "url": ""
+      "summary": "Host of the \"Technically Speaking\" podcast and weekly \"Tech Chat\" on YouTube, discussing the latest tech news and personal projects with friends.",
+      "url": "https://feeds.feedburner.com/technicallyspeakingpodcast"
+    },
+    {
+      "name": "Technically Speaking (YouTube)",
+      "position": "Host",
+      "startDate": "2020-06-30",
+      "highlights": [],
+      "summary": "Host of the weekly \"Tech Chat\" on YouTube, discussing the latest tech news and personal projects with friends.",
+      "url": "https://www.youtube.com/playlist?list=PLeLjnL2UNyZGub9HyKGGEGKcFC3UhVs5s"
     },
     {
       "position": "Open Source Developer",
       "startDate": "2018-08-31",
-      "endDate": "",
       "highlights": [],
       "summary": "Producing and contributing to a number of free and open-source projects, including interactive social media bots, Python API client libraries, Tautulli and Home Assistant.",
-      "url": ""
+      "url": "https://github.com/nwithan8"
     },
     {
       "name": "Force 5 Inc.",
@@ -129,7 +134,7 @@
       "startDate": "2016-08-31",
       "endDate": "2016-12-31",
       "highlights": [],
-      "summary": "In charge of managing both city and campus news subdesk, writers and assistant editors. In charge of editing daily website content and weekly newspaper articles. Involved in weekly print newspaper production. Lead weekly meetings for writers. Communicate with photo desk, design desk and video desk, as well as other sections if needed.\n\nHeaded massive reporting operation during Election Day 2016.",
+      "summary": "In charge of managing both city and campus news sub-desk, writers and assistant editors. In charge of editing daily website content and weekly newspaper articles. Involved in weekly print newspaper production. Lead weekly meetings for writers. Communicate with photo desk, design desk and video desk, as well as other sections if needed.\n\nHeaded massive reporting operation during Election Day 2016.",
       "url": "https://www.linkedin.com/company/the-red-&-black-newspaper/",
       "location": "Athens, Georgia"
     },
@@ -224,18 +229,18 @@
       "endDate": "2018-12-31",
       "score": "",
       "courses": [
-        " - Photojournalism",
-        " - Videojournalism",
-        "Honors - Media History",
-        " - Multiplatform Reporting",
-        "Honors - Introduction to News Writing",
-        " - Investigative Reporting",
-        " - New Media Topics",
-        " - Introduction to News Gathering",
-        "Honors - Introduction to Journalism",
-        "Honors - Communication Law",
-        " - Introduction to New Media",
-        " - New Media Production"
+        "Photojournalism",
+        "Video Journalism",
+        "Media History - Honors",
+        "Multiplatform Reporting",
+        "Introduction to News Writing - Honors",
+        "Investigative Reporting",
+        "New Media Topics",
+        "Introduction to News Gathering",
+        "Introduction to Journalism - Honors",
+        "Communication Law - Honors",
+        "Introduction to New Media",
+        "New Media Production"
       ]
     },
     {
@@ -246,10 +251,10 @@
       "endDate": "2018-12-31",
       "score": "3.76 GPA",
       "courses": [
-        " - Advanced Java",
-        " - Discrete Math",
-        " - Web Programming",
-        " - Introduction to Java"
+        "Advanced Java",
+        "Discrete Math",
+        "Web Programming",
+        "Introduction to Java"
       ]
     },
     {
@@ -315,294 +320,167 @@
     {
       "name": "Henry County Beat Reporter",
       "publisher": "Atlanta Journal-Constitution",
-      "releaseDate": "",
       "summary": "",
-      "url": "http://www.ajc.com/"
+      "url": "https://www.ajc.com/"
     },
     {
       "name": "News Reporter",
       "publisher": "Zanesville Times Recorder",
-      "releaseDate": "",
       "summary": "",
-      "url": "http://zanesvilletimesrecorder.com"
+      "url": "https://zanesvilletimesrecorder.com"
     },
     {
       "name": "News Reporter",
       "publisher": "Flagpole Magazine",
-      "releaseDate": "",
       "summary": "",
-      "url": "http://flagpole.com/"
+      "url": "https://flagpole.com/"
     },
     {
       "name": "Portfolio",
-      "publisher": null,
-      "releaseDate": "",
+      "publisher": "Self",
       "summary": "",
       "url": "https://nwithan8.contently.com/"
     },
     {
       "name": "Various Positions",
       "publisher": "The Red & Black",
-      "releaseDate": "",
       "summary": "",
-      "url": "http://www.redandblack.com/"
+      "url": "https://www.redandblack.com/"
     }
   ],
   "skills": [
     {
-      "name": "Python (Programming Language)",
-      "level": "",
-      "keywords": []
+      "name": "Programming Languages",
+      "level": "Advanced",
+      "keywords": [
+        "Java",
+        ".NET",
+        "C#",
+        "Python",
+        "Node.js",
+        "Javascript",
+        "HTML",
+        "CSS",
+        "Ruby",
+        "PHP",
+        "Golang",
+        "Dart",
+        "Groovy",
+        "Grails",
+        "Scala"
+      ]
+    },
+    {
+      "name": "Software Development",
+      "level": "Advanced",
+      "keywords": [
+        "Version Control Systems",
+        "Git",
+        "JetBrains",
+        "IntelliJ",
+        "PyCharm",
+        "RubyMine",
+        "WebStorm",
+        "Rider",
+        "GoLand",
+        "PhpStorm",
+        "VS Code",
+        "Visual Studio",
+        "User Experience",
+        "Open Source Software",
+        "GitHub",
+        "Gitea"
+      ]
+    },
+    {
+      "name": "Data Analysis",
+      "level": "Intermediate",
+      "keywords": [
+        "SQL",
+        "SQLite",
+        "MySQL",
+        "MS SQL Server",
+        "Tableau",
+        "Socrata"
+      ]
+    },
+    {
+      "name": "Project Management",
+      "level": "Intermediate",
+      "keywords": [
+        "Agile",
+        "Scrum",
+        "Phabricator",
+        "YouTrack"
+      ]
     },
     {
       "name": "Communication",
-      "level": "",
-      "keywords": []
+      "level": "Advanced",
+      "keywords": [
+        "Public Speaking",
+        "Writing",
+        "Creative Writing",
+        "Podcasting",
+        "YouTube"
+      ]
     },
     {
       "name": "Journalism",
       "level": "",
-      "keywords": []
+      "keywords": [
+        "The Red & Black Publishing Co.",
+        "Gannett Co. Inc.",
+        "The Atlanta Journal-Constitution",
+        "The Zanesville Times Recorder",
+        "Flagpole Magazine",
+        "Fact-checking",
+        "Research",
+        "Editing",
+        "Breaking News",
+        "AP Style",
+        "Copy Editing",
+      ]
     },
     {
-      "name": "Writing",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "The Red & Black Publishing Co.",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Storytelling",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Git",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Management",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Node.js",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Grails",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Media Relations",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Fact-checking",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Data Analytics",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Writing News Releases",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Research",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Java",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "SQL",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Pycharm",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "PowerPoint",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Mobile Application Development",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Editing",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Microsoft SQL Server",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Software Design",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "PySpark",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Version Control",
-      "level": "",
-      "keywords": []
+      "name": "Web Development",
+      "level": "Intermediate",
+      "keywords": [
+        "React",
+        "Bootstrap",
+        "Material Design",
+        "CSS",
+        "HTML",
+        "Javascript",
+        "jQuery",
+        "UX/UI"
+      ]
     },
     {
       "name": "Microsoft Office",
-      "level": "",
-      "keywords": []
+      "level": "Advanced",
+      "keywords": [
+        "Word",
+        "Excel",
+        "PowerPoint",
+        "Outlook",
+        "Access"
+      ]
     },
     {
-      "name": "Facebook",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "JavaScript",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Groovy",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Scala",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Microsoft Word",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Tableau",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Ubuntu",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Coding Standards",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Scrum",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Microsoft Excel",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "SQLite",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Creative Writing",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Software Development",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Open Source Software",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Breaking News",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Project Management",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Linux",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Copy Editing",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Online Journalism",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Leadership",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "HTML",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Problem Solving",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Server Management",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "News Writing",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "AP Stylebook",
-      "level": "",
-      "keywords": []
+      "name": "Operating Systems",
+        "level": "Advanced",
+        "keywords": [
+          "Windows",
+          "Mac OS",
+          "Linux",
+          "Ubuntu",
+          "Unraid",
+          "ProxMox",
+          "Docker",
+          "Hypervisor",
+          "Virtualization"
+        ]
     }
   ],
   "languages": [
@@ -615,37 +493,37 @@
   "references": [],
   "projects": [
     {
-      "name": "Python Development",
+      "name": "Open-Source Development",
       "startDate": "2018-07-31",
-      "summary": "Freelance and free-time Python developer, producing a number of open-source API wrapper libraries, automation scripts and self-hosted social media bots.",
+      "summary": "Freelance and free-time open-source developer (primarily Python), producing a number of API wrapper libraries, automation scripts and self-hosted social media bots.",
       "url": "https://github.com/nwithan8"
     },
     {
       "name": "Backlog of Georgia Rape Kits",
       "startDate": "2017-01-31",
       "summary": "An in-depth look at the cause and progress of a backlog of rape kits at the Georgia Bureau of Investigation following a Georgia General Assembly bill that forced all unsubmitted kits to be submitted to GBI in August 2016.",
-      "url": "http://www.redandblack.com/athensnews/clearing-the-backlog-gbi-flooded-with-unprocessed-rape-kits-following/article_0f24cde8-dde6-11e6-b3d5-43ec143ac4f2.html",
+      "url": "https://www.redandblack.com/athensnews/clearing-the-backlog-gbi-flooded-with-unprocessed-rape-kits-following/article_0f24cde8-dde6-11e6-b3d5-43ec143ac4f2.html",
       "endDate": "2017-01-31"
     },
     {
       "name": "Discrimination at Downtown Athens Bars",
       "startDate": "2016-01-31",
       "summary": "The beginning of a year-long continuing story of an Athens ordinance to tackle surfaced accounts of discrimination at downtown Athens, Georgia bars.",
-      "url": "http://www.redandblack.com/athensnews/athens-confronts-downtown-bar-discrimination/article_5f8eca7e-bfcc-11e5-817a-c7120b219d2e.html",
+      "url": "https://www.redandblack.com/athensnews/athens-confronts-downtown-bar-discrimination/article_5f8eca7e-bfcc-11e5-817a-c7120b219d2e.html",
       "endDate": "2016-01-31"
     },
     {
       "name": "College At All Costs",
       "startDate": "2017-08-31",
       "summary": "A website built from the ground up to host a special investigation project into the cost of higher education in the state of Georgia.\n\nI led the team in developing and coding the website, with a specific focus on Javascript functionality.",
-      "url": "http://www.collegeatallcosts.com/index.html",
+      "url": "https://www.collegeatallcosts.com/index.html",
       "endDate": "2017-12-31"
     },
     {
       "name": "Proposed Georgia Campus Carry Legislation",
       "startDate": "2016-01-31",
       "summary": "Georgia General Assembly proposed HB 859 to allow concealed carry on college campuses. Bill had large disapproval and protests. Main article in multi-piece coverage of protests, legislation updates, and student body surveying.",
-      "url": "http://www.redandblack.com/athensnews/gov-deal-to-decide-on-campus-carry-proposal/article_4c601c50-ebd7-11e5-b0a9-cfb8ba29864f.html",
+      "url": "https://www.redandblack.com/athensnews/gov-deal-to-decide-on-campus-carry-proposal/article_4c601c50-ebd7-11e5-b0a9-cfb8ba29864f.html",
       "endDate": "2016-05-31"
     }
   ],
