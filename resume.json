@@ -439,7 +439,7 @@
         "Editing",
         "Breaking News",
         "AP Style",
-        "Copy Editing",
+        "Copy Editing"
       ]
     },
     {
@@ -469,18 +469,18 @@
     },
     {
       "name": "Operating Systems",
-        "level": "Advanced",
-        "keywords": [
-          "Windows",
-          "Mac OS",
-          "Linux",
-          "Ubuntu",
-          "Unraid",
-          "ProxMox",
-          "Docker",
-          "Hypervisor",
-          "Virtualization"
-        ]
+      "level": "Advanced",
+      "keywords": [
+        "Windows",
+        "Mac OS",
+        "Linux",
+        "Ubuntu",
+        "Unraid",
+        "ProxMox",
+        "Docker",
+        "Hypervisor",
+        "Virtualization"
+      ]
     }
   ],
   "languages": [
