@@ -2,7 +2,7 @@
   "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
   "basics": {
     "name": "Nathan Harris",
-    "label": "Software Engineer || PSM I",
+    "label": "Software Engineer II | PSM I",
     "image": "https://raw.githubusercontent.com/nwithan8/nwithan8.github.io/master/images/headshot_transparent.png",
     "email": "n8gr8gbln@gmail.com",
     "phone": "404-909-7586",
@@ -28,10 +28,14 @@
   "work": [
     {
       "name": "EasyPost",
-      "position": "Software Engineer",
+      "position": "Software Engineer II",
       "startDate": "2021-11-30",
-      "highlights": [],
-      "summary": "Developing EasyPost's open source API client libraries (Java, C#, Python, Node.JS, Ruby, Go, PHP), adding features, ensuring functionality parity, and generally making it dirt-simple for retailers to integrate with EasyPost services.\n\nEngineering a number of open-source tools for the FOSS community.",
+      "highlights": [
+        "Revitalized and redesigned EasyPost's open-source API client libraries (Java, C#, Python, Node.JS, Ruby, Go, PHP)",
+        "Led development on open-source HTTP VCR utility for Java and .NET (EasyVCR)",
+        "Designed and developed internal utilities to auto-generate API client libraries and documentation"
+      ],
+      "summary": "Developing internal and external systems and utilities to improve the end-user B2B and B2C EasyPost experience.",
       "url": "https://www.linkedin.com/company/easypost/",
       "location": "Denver, Colorado, United States"
     },
@@ -368,28 +372,6 @@
       ]
     },
     {
-      "name": "Data Analysis",
-      "level": "Intermediate",
-      "keywords": [
-        "SQL",
-        "SQLite",
-        "MySQL",
-        "MS SQL Server",
-        "Tableau",
-        "Socrata"
-      ]
-    },
-    {
-      "name": "Project Management",
-      "level": "Intermediate",
-      "keywords": [
-        "Agile",
-        "Scrum",
-        "Phabricator",
-        "YouTrack"
-      ]
-    },
-    {
       "name": "Communication",
       "level": "Advanced",
       "keywords": [
@@ -402,7 +384,7 @@
     },
     {
       "name": "Journalism",
-      "level": "Intermediate",
+      "level": "Advanced",
       "keywords": [
         "Gannett Co. Inc.",
         "USA Today Network",
@@ -420,17 +402,18 @@
       ]
     },
     {
-      "name": "Web Development",
-      "level": "Intermediate",
+      "name": "Operating Systems",
+      "level": "Advanced",
       "keywords": [
-        "React",
-        "Bootstrap",
-        "Material Design",
-        "CSS",
-        "HTML",
-        "Javascript",
-        "jQuery",
-        "UX/UI"
+        "Windows",
+        "Mac OS",
+        "Linux",
+        "Ubuntu",
+        "Unraid",
+        "ProxMox",
+        "Docker",
+        "Hypervisor",
+        "Virtualization"
       ]
     },
     {
@@ -445,18 +428,39 @@
       ]
     },
     {
-      "name": "Operating Systems",
-      "level": "Advanced",
+      "name": "Project Management",
+      "level": "Intermediate",
       "keywords": [
-        "Windows",
-        "Mac OS",
-        "Linux",
-        "Ubuntu",
-        "Unraid",
-        "ProxMox",
-        "Docker",
-        "Hypervisor",
-        "Virtualization"
+        "Agile",
+        "Scrum",
+        "Phabricator",
+        "YouTrack"
+      ]
+    },
+    {
+      "name": "Data Analysis",
+      "level": "Intermediate",
+      "keywords": [
+        "SQL",
+        "SQLite",
+        "MySQL",
+        "MS SQL Server",
+        "Tableau",
+        "Socrata"
+      ]
+    },
+    {
+      "name": "Web Development",
+      "level": "Intermediate",
+      "keywords": [
+        "React",
+        "Bootstrap",
+        "Material Design",
+        "CSS",
+        "HTML",
+        "Javascript",
+        "jQuery",
+        "UX/UI"
       ]
     }
   ],
