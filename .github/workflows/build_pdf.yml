@@ -1,0 +1,27 @@
+name: Build PDF resume and store on GitHub
+on:
+  push:
+    branches:
+      - master
+  workflow_dispatch:
+
+jobs:
+  build_pdf:
+    name: Build PDF resume and store on GitHub
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+      - name: Setup Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: '14'
+      - name: Install dependencies
+        run: npm install resume-cli jsonresume-theme-stackoverflow
+      - name: Build PDF resume
+        run: npx resume export resume.pdf --theme stackoverflow
+      - name: Commit PDF resume to repository
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: Add PDF resume
+          file_pattern: '*.pdf'
