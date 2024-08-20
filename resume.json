@@ -33,7 +33,9 @@
       "highlights": [
         "Revitalized and redesigned EasyPost's open-source API client libraries (Java, C#, Python, Node.JS, Ruby, Go, PHP)",
         "Led development on open-source HTTP VCR utility for Java and .NET (EasyVCR)",
-        "Designed and developed internal utilities to auto-generate API client libraries and documentation"
+        "Designed and developed internal utilities to auto-generate API client libraries and documentation",
+        "Spear-headed user-facing API documentation redesign and implementation",
+        "Introduced claims submission and tracking portal for EasyPost's insurance product"
       ],
       "summary": "Developing internal and external systems and utilities to improve the end-user B2B and B2C EasyPost experience.",
       "url": "https://www.linkedin.com/company/easypost/",
