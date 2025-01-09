@@ -6,7 +6,7 @@
     "image": "https://raw.githubusercontent.com/nwithan8/nwithan8.github.io/master/images/headshot_transparent.png",
     "email": "n8gr8gbln@gmail.com",
     "url": "https://github.com/nwithan8",
-    "summary": "Blending my two loves, the fast-paced, high-stakes world of journalism and the fast-paced, high-stakes world of software development.\n\"Dedicated to combating misinformation.\"",
+    "summary": "Excited to take head-on the fast-paced, high-stakes world of software development.\nRetired journalist.",
     "location": {
       "countryCode": "US",
       "address": "Denver, Colorado"
@@ -16,11 +16,6 @@
         "network": "LinkedIn",
         "username": "nwithan8",
         "url": "https://www.linkedin.com/in/nwithan8/"
-      },
-      {
-        "network": "Twitter",
-        "username": "nwithan8",
-        "url": "https://twitter.com/nwithan8"
       }
     ]
   },
@@ -29,6 +24,7 @@
       "name": "EasyPost",
       "position": "Software Engineer II",
       "startDate": "2021-11-30",
+      "endDate": "2025-01-08",
       "highlights": [
         "Revitalized and redesigned EasyPost's open-source API client libraries (Java, C#, Python, Node.JS, Ruby, Go, PHP)",
         "Led development on open-source HTTP VCR utility for Java and .NET (EasyVCR)",
@@ -49,19 +45,16 @@
       "url": "https://feeds.feedburner.com/technicallyspeakingpodcast"
     },
     {
-      "name": "Technically Speaking (YouTube)",
-      "position": "Host",
-      "startDate": "2020-06-30",
-      "highlights": [],
-      "summary": "Host of the weekly \"Tech Chat\" on YouTube, discussing the latest tech news and personal projects with friends.",
-      "url": "https://www.youtube.com/playlist?list=PLeLjnL2UNyZGub9HyKGGEGKcFC3UhVs5s"
-    },
-    {
       "name": "Internet",
       "position": "Open Source Developer",
       "startDate": "2018-08-31",
-      "highlights": [],
-      "summary": "Producing and contributing to a number of free and open-source projects, including interactive social media bots, Python API client libraries, Tautulli and Home Assistant.",
+      "highlights": [
+        "EasyVCR - An open-source Java and .NET utility for recording and replaying HTTP requests in automated test suites",
+        "Tauticord - A Discord bot for viewing and managing Plex streams via Tautulli",
+        "Pytulli - The de-facto, feature-complete Python API client for Tautulli",
+        "Plex Prerolls - A cron-based script to adjust preroll videos for a Plex Media Server based on defined schedules and holidays"
+      ],
+      "summary": "Producing and contributing to a number of free and open-source projects, including testing utilities, interactive social media bots, Python API client libraries, Tautulli and Home Assistant.",
       "url": "https://github.com/nwithan8"
     },
     {
@@ -105,72 +98,17 @@
       "location": "Atlanta, GA"
     },
     {
-      "name": "The Red & Black Publishing Co.",
-      "position": "Lead Investigative Reporter",
-      "startDate": "2018-01-31",
-      "endDate": "2018-05-31",
-      "highlights": [],
-      "summary": "Lead the investigative and enterprise reporting team, bringing my experience from The Red & Black, Flagpole Magazine, The Atlanta Journal-Constitution and the Georgia News Lab investigative course to train and oversee a new team of junior and senior writers.",
-      "url": "https://www.linkedin.com/company/the-red-&-black-newspaper/",
-      "location": "Athens, Georgia Area"
-    },
-    {
       "name": "The Red & Black",
       "position": "News Writer",
       "startDate": "2014-09-30",
       "endDate": "2018-05-31",
-      "highlights": [],
+      "highlights": [
+        "Served as lead news desk editor in Fall 2016",
+        "Served as city news desk editor in Spring 2016",
+        "Served as lead investigative reporter in Spring 2018",
+        "Served as senior city correspondent in Fall 2015"
+      ],
       "summary": "Attend weekly meetings. Take responsibility for researching and writing articles, getting in contact with sources, keep editors updated about progress. Articles due weekly.",
-      "url": "https://www.linkedin.com/company/the-red-&-black-newspaper/",
-      "location": "Athens, Georgia"
-    },
-    {
-      "name": "The Red & Black",
-      "position": "Senior Reporter",
-      "startDate": "2016-12-31",
-      "endDate": "2017-05-31",
-      "highlights": [],
-      "summary": "One of four senior reporters focused on longer-form front-page stories. Particular focus on Georgia politics and legislation that impacts college students (i.e. HOPE Scholarship funding, campus carry).\n\nAlso a go-to reporter for breaking news and crime reports.",
-      "url": "https://www.linkedin.com/company/the-red-&-black-newspaper/",
-      "location": "Athens, Georgia"
-    },
-    {
-      "name": "The Red & Black",
-      "position": "News Editor",
-      "startDate": "2016-08-31",
-      "endDate": "2016-12-31",
-      "highlights": [],
-      "summary": "In charge of managing both city and campus news sub-desk, writers and assistant editors. In charge of editing daily website content and weekly newspaper articles. Involved in weekly print newspaper production. Lead weekly meetings for writers. Communicate with photo desk, design desk and video desk, as well as other sections if needed.\n\nHeaded massive reporting operation during Election Day 2016.",
-      "url": "https://www.linkedin.com/company/the-red-&-black-newspaper/",
-      "location": "Athens, Georgia"
-    },
-    {
-      "name": "The Red & Black",
-      "position": "City News Editor",
-      "startDate": "2016-01-31",
-      "endDate": "2016-05-31",
-      "highlights": [],
-      "summary": "In charge of managing city news writers, including government writers, economic writers, business writers and crime writers. Also in charge of fact-checking and basic editing of articles for daily online content, breaking news, and weekly print newspapers. Major stories include a missing UGA student which was later found to have committed suicide, a late-night car crash which killed 4 UGA students, the introduction and rallies around an anti-discrimination ordinance in downtown Athens, and coverage of local reaction to and eventual veto of Georgia HB 859 (proposed campus carry) and HB 757 (proposed religious liberty bill).",
-      "url": "https://www.linkedin.com/company/the-red-&-black-newspaper/",
-      "location": "Athens, Georgia"
-    },
-    {
-      "name": "The Red & Black",
-      "position": "Senior City Correspondent",
-      "startDate": "2015-08-31",
-      "endDate": "2015-12-31",
-      "highlights": [],
-      "summary": "Head writer for the City News desk, in charge of big city news stories, as well as collaboration with Senior Campus Correspondent for cross-desk stories. Also picked up smaller city stories that did not fall under specific beats.",
-      "url": "https://www.linkedin.com/company/the-red-&-black-newspaper/",
-      "location": "Athens, Georgia"
-    },
-    {
-      "name": "The Red & Black",
-      "position": "Assistant News Editor",
-      "startDate": "2015-01-31",
-      "endDate": "2015-05-31",
-      "highlights": [],
-      "summary": "In charge of managing crime reporting. Crime beat reporter. Major stories include five student deaths, including a Resident Assistant dying in her room in a UGA dorm, an alcohol poisoning, and a student murdered during a drug deal. Wrote remembrance articles for all three.",
       "url": "https://www.linkedin.com/company/the-red-&-black-newspaper/",
       "location": "Athens, Georgia"
     },
@@ -213,16 +151,6 @@
       "summary": "Served as Henry County beat reporter, covering county and city board meetings, a school board superintendent controversy and Confederate pride, as well as infant mortality in swimming pools and the new campus carry law, among others.",
       "url": "https://www.linkedin.com/company/atlanta-journal-constitution/",
       "location": "Greater Atlanta Area"
-    },
-    {
-      "name": "Neighbor Newspaper",
-      "position": "News Reporter",
-      "startDate": "2014-01-31",
-      "endDate": "2014-05-31",
-      "highlights": [],
-      "summary": "Internship with Neighbor Newspapers, handled calendar events and press release rewrites. Had two original articles published in weekly paper.",
-      "url": "https://www.linkedin.com/company/neighbor-newspaper/",
-      "location": "Roswell, Georgia"
     }
   ],
   "volunteer": [],
@@ -270,14 +198,6 @@
       "endDate": "2020-12-31",
       "score": "",
       "courses": []
-    },
-    {
-      "institution": "Chattahoochee High School",
-      "area": "High School Diploma",
-      "startDate": "2010-12-31",
-      "endDate": "2014-12-31",
-      "score": "3.76/4.0",
-      "courses": []
     }
   ],
   "awards": [
@@ -286,30 +206,6 @@
       "date": "2016-05-31",
       "awarder": "Society of Professional Journalists",
       "summary": "Received the award from the 66th Annual Green Eyeshade Awards for coverage of the administration at the University of Georgia during my time at The Red & Black."
-    },
-    {
-      "title": "GPEF Scholarship",
-      "date": "2015-04-30",
-      "awarder": "Georgia Press Education Foundation",
-      "summary": "Scholarship for students majoring or intended majoring in journalism at Georgia college."
-    },
-    {
-      "title": "Zell Miller Scholarship",
-      "date": "2014-05-31",
-      "awarder": "State of Georgia",
-      "summary": ""
-    },
-    {
-      "title": "GPEF Scholarship",
-      "date": "2014-04-30",
-      "awarder": "Georgia Press Education Foundation",
-      "summary": "Scholarship for students majoring or intended majoring in journalism at Georgia college."
-    },
-    {
-      "title": "Charter Scholarship",
-      "date": "2013-12-31",
-      "awarder": "University of Georgia",
-      "summary": ""
     }
   ],
   "certificates": [
@@ -322,7 +218,7 @@
   ],
   "publications": [
     {
-      "name": "Portfolio",
+      "name": "Journalism Portfolio",
       "publisher": "Self",
       "summary": "",
       "url": "https://nwithan8.contently.com/"
@@ -345,9 +241,11 @@
         "PHP",
         "Golang",
         "Dart",
+        "Flutter",
         "Groovy",
         "Grails",
-        "Scala"
+        "Scala",
+        "SQL"
       ]
     },
     {
@@ -356,6 +254,13 @@
       "keywords": [
         "Version Control Systems",
         "Git",
+        "REST API design",
+        "Microservices",
+        "Database",
+        "ORM",
+        "MySQL",
+        "SQLite",
+        "Postgres",
         "JetBrains",
         "IntelliJ",
         "PyCharm",
@@ -370,6 +275,46 @@
         "Open Source Software",
         "GitHub",
         "Gitea"
+      ]
+    },
+    {
+      "name": "Automation",
+      "level": "Advanced",
+      "keywords": [
+        "Scripting",
+        "Python",
+        "Selenium",
+        "Playwright",
+        "Jenkins",
+        "CI/CD"
+      ]
+    },
+    {
+      "name": "System Administration",
+      "level": "Advanced",
+      "keywords": [
+        "Linux",
+        "Unraid",
+        "Docker",
+        "Docker Compose",
+        "Portainer",
+        "Kubernetes",
+        "Self-Hosting",
+        "Homelab",
+        "Deployment",
+        "Scaling"
+      ]
+    },
+    {
+      "name": "Developer Experience",
+      "level": "Advanced",
+      "keywords": [
+        "Documentation",
+        "Code Snippets",
+        "Examples",
+        "Guides",
+        "SDKs",
+        "Tutorials"
       ]
     },
     {
@@ -429,6 +374,23 @@
       ]
     },
     {
+      "name": "Artificial Intelligence",
+      "level": "Intermediate",
+      "keywords": [
+        "Machine Learning",
+        "TensorFlow",
+        "PyTorch",
+        "OpenCV",
+        "Natural Language Processing",
+        "NLTK",
+        "OpenAI",
+        "Llama",
+        "Qwen",
+        "Ollama",
+        "GitHub Copilot"
+      ]
+    },
+    {
       "name": "Project Management",
       "level": "Intermediate",
       "keywords": [
@@ -463,6 +425,24 @@
         "jQuery",
         "UX/UI"
       ]
+    },
+    {
+      "name": "Network Engineering",
+      "level": "Intermediate",
+      "keywords": [
+        "Unifi",
+        "pfSense",
+        "Ubiquiti",
+        "Firewall",
+        "VLANs",
+        "Ad-Blocking",
+        "DNS",
+        "DHCP",
+        "WireGuard",
+        "OpenVPN",
+        "VPN",
+        "Access Point"
+      ]
     }
   ],
   "languages": [
@@ -479,20 +459,6 @@
       "startDate": "2018-07-31",
       "summary": "Freelance and free-time open-source developer (primarily Python), producing a number of API wrapper libraries, automation scripts and self-hosted social media bots.",
       "url": "https://github.com/nwithan8"
-    },
-    {
-      "name": "Backlog of Georgia Rape Kits",
-      "startDate": "2017-01-31",
-      "summary": "An in-depth look at the cause and progress of a backlog of rape kits at the Georgia Bureau of Investigation following a Georgia General Assembly bill that forced all unsubmitted kits to be submitted to GBI in August 2016.",
-      "url": "https://www.redandblack.com/athensnews/clearing-the-backlog-gbi-flooded-with-unprocessed-rape-kits-following/article_0f24cde8-dde6-11e6-b3d5-43ec143ac4f2.html",
-      "endDate": "2017-01-31"
-    },
-    {
-      "name": "Discrimination at Downtown Athens Bars",
-      "startDate": "2016-01-31",
-      "summary": "The beginning of a year-long continuing story of an Athens ordinance to tackle surfaced accounts of discrimination at downtown Athens, Georgia bars.",
-      "url": "https://www.redandblack.com/athensnews/athens-confronts-downtown-bar-discrimination/article_5f8eca7e-bfcc-11e5-817a-c7120b219d2e.html",
-      "endDate": "2016-01-31"
     },
     {
       "name": "College At All Costs",
