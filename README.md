@@ -1,6 +1,6 @@
 # Nate Harris Resume
 
-### [View Here](https://registry.jsonresume.org/nwithan8?theme=elegant)
+### [View Here](https://registry.jsonresume.org/nwithan8?theme=kendall)
 
 ### How it works
 
@@ -10,4 +10,4 @@ This resume is stored as JSON following the [JSON Resume schema](https://raw.git
 
 There are two CLI tools, `resume-cli` via NPM and `resumed` via GitHub, neither of which work great, especially with PDF conversion.
 
-To save the resume as a PDF, first download a theme that will produce a thin rendered page (I recommend the [StackOverflow](https://www.npmjs.com/package/jsonresume-theme-stackoverflow) theme). Install the `resume-cli` tool via NPM, and run `resume --theme stackoverflow serve` to run a local webserver. Navigate to `localhost:4000` and print the page to "Save as PDF".
+To save the resume as a PDF, first download a theme that will produce a thin rendered page (I recommend the [BufferBloat](https://www.npmjs.com/package/jsonresume-theme-bufferbloat) theme). Install the `resume-cli` tool via NPM, and run `resume --theme bufferbloat serve` to run a local webserver. Navigate to `localhost:4000` and print the page to "Save as PDF".

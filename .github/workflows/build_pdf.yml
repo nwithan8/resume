@@ -21,12 +21,12 @@ jobs:
         with:
           node-version: '14'
       - name: Install dependencies
-        run: npm install resume-cli jsonresume-theme-stackoverflow
+        run: npm install resume-cli jsonresume-theme-bufferbloat
       - name: Workaround for browser issue
         run: >
           echo "RESUME_PUPPETEER_NO_SANDBOX=1" >> $GITHUB_ENV
       - name: Build PDF resume
-        run: npx resume export resume.pdf --format pdf --theme stackoverflow
+        run: npx resume export resume.pdf --format pdf --theme bufferbloat
       - name: Commit PDF resume to repository
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
