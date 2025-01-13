@@ -37,6 +37,24 @@
       "location": "Denver, Colorado, United States"
     },
     {
+      "name": "FusionAuth",
+      "position": ".NET Consultant - Freelance",
+      "startDate": "2024-07-01",
+      "summary": "Consultant on the FusionAuth .NET SDK, providing guidance and development on the SDK's design and implementation."
+    },
+    {
+      "name": "Montjoy",
+      "position": "Software Developer and Product Consultant",
+      "startDate": "2020-06-20",
+      "summary": "Product consultant, freelance app developer and tester for Montjoy, an early-stage startup providing paid, private livestream platform for remote, geolocation-based tours and communication.",
+    },
+    {
+      "name": "Aidly IT",
+      "position": "Development Consultant and Level 2 Support",
+      "startDate": "2023-01-01",
+      "summary": "Consultant and Level 2 Support for cloud systems and boutique software solutions for Aidly IT, a small-business and non-profit IT consulting firm in Denver, CO."
+    },
+    {
       "name": "Technically Speaking (Podcast)",
       "position": "Podcaster",
       "startDate": "2016-09-30",
