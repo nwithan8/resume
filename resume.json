@@ -2,10 +2,10 @@
   "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
   "basics": {
     "name": "Nathan Harris",
-    "label": "Full-Stack Software Engineer and Consultant | Certified Scrum Master",
+    "label": "Full-Stack Software Engineer and Consultant | Professional Scrum Master",
     "image": "https://raw.githubusercontent.com/nwithan8/nwithan8.github.io/master/images/headshot_transparent.png",
     "email": "n8gr8gbln@gmail.com",
-    "url": "https://github.com/nwithan8",
+    "url": "https://nateharr.is",
     "summary": "Excited to take head-on the fast-paced, high-stakes world of software development.\nRetired journalist.",
     "location": {
       "countryCode": "US",
@@ -13,162 +13,176 @@
     },
     "profiles": [
       {
+        "network": "GitHub",
+        "username": "nwithan8",
+        "url": "https://github.com/nwithan8"
+      },
+      {
         "network": "LinkedIn",
         "username": "nwithan8",
-        "url": "https://www.linkedin.com/in/nwithan8/"
+        "url": "https://linkedin.com/in/nwithan8/"
       }
     ]
   },
   "work": [
     {
       "name": "EasyPost",
-      "position": "Software Engineer II",
+      "location": "Denver, CO",
+      "url": "https://easypost.com",
+      "position": "Software Engineer",
       "startDate": "2021-11-30",
       "endDate": "2025-01-08",
+      "summary": "Developed internal and external systems and utilities to improve the end-user B2B and B2C shipping experience.",
       "highlights": [
-        "Revitalized and redesigned EasyPost's open-source API client libraries (Java, C#, Python, Node.JS, Ruby, Go, PHP)",
-        "Led development on open-source HTTP VCR utility for Java and .NET (EasyVCR)",
-        "Designed and developed internal utilities to auto-generate API client libraries and documentation",
-        "Spear-headed user-facing API documentation redesign and implementation",
-        "Introduced claims submission and tracking portal for EasyPost's insurance product"
-      ],
-      "summary": "Developing internal and external systems and utilities to improve the end-user B2B and B2C EasyPost experience.",
-      "url": "https://www.linkedin.com/company/easypost/",
-      "location": "Denver, Colorado, United States"
+        "Revitalized and redesigned EasyPost's open-source API client libraries (C#, Java, Python, Node.JS, Ruby, Golang, PHP), which handle 85% of EasyPost's API traffic, to ensure thread safety and improve performance and usability",
+        "Built CI/CD pipeline for EasyPost's open-source libraries, including automated testing and package compilation and deployment",
+        "Migrated multiple internal services from monolithic to microservices architecture, improving scalability and reliability while reducing CI/CD pipeline complexity by 75%",
+        "Led design and development of open-source HTTP VCR utility for Java and .NET (EasyVCR) used in automated test suites",
+        "Introduced Carrier Metadata API for EasyPost's shipping API, providing real-time, machine-queryable carrier information and service availability",
+        "Spear-headed migration of EasyPost's API documentation to a new standalone platform and redesigned the documentation to be more mobile-user-friendly and accessible",
+        "Introduced new claims submission and tracking portal for EasyPost's insurance product",
+        "Established company-wide coding standards and best practices for various languages"
+      ]
     },
     {
-      "name": "FusionAuth",
-      "position": ".NET Consultant - Freelance",
-      "startDate": "2024-07-01",
-      "summary": "Consultant on the FusionAuth .NET SDK, providing guidance and development on the SDK's design and implementation."
-    },
-    {
-      "name": "Montjoy",
-      "position": "Software Developer and Product Consultant",
+      "position": "Freelance Software Developer and Consultant",
       "startDate": "2020-06-20",
-      "summary": "Product consultant, freelance app developer and tester for Montjoy, an early-stage startup providing paid, private livestream platform for remote, geolocation-based tours and communication."
+      "highlights": [
+          "FusionAuth - .NET software consultant on the FusionAuth .NET SDK, providing guidance and development on the SDK's design and implementation.",
+          "Montjoy - Product consultant and freelance app developer for early-stage startup providing paid, private livestream platform for remote, geolocation-based tours and communication.",
+          "Aidly IT - General consultant and Level 2 Support for cloud systems and boutique software solutions for small-business and non-profit IT consulting firm"
+        ]
     },
     {
-      "name": "Aidly IT",
-      "position": "Development Consultant and Level 2 Support",
-      "startDate": "2023-01-01",
-      "summary": "Consultant and Level 2 Support for cloud systems and boutique software solutions for Aidly IT, a small-business and non-profit IT consulting firm in Denver, CO."
-    },
-    {
-      "name": "Technically Speaking (Podcast)",
-      "position": "Podcaster",
+      "name": "Technically Speaking Podcast",
+      "url": "https://open.spotify.com/show/5CNi1AtKaLN9RaD4KMHMnt?si=2925fc6e940541fb",
+      "position": "Podcast Host",
       "startDate": "2016-09-30",
-      "highlights": [],
-      "summary": "Host of the \"Technically Speaking\" podcast and weekly \"Tech Chat\" on YouTube, discussing the latest tech news and personal projects with friends.",
-      "url": "https://feeds.feedburner.com/technicallyspeakingpodcast"
+      "summary": "Host of the \"Technically Speaking\" podcast and weekly \"Tech Chat\" on YouTube, discussing and dissecting the latest technology news.",
+      "highlights": []
     },
     {
-      "name": "Internet",
+      "url": "https://github.com/nwithan8",
       "position": "Open Source Developer",
       "startDate": "2018-08-31",
+      "summary": "Producing and contributing to a number of free and open-source projects, including testing utilities, interactive social media bots, Python API client libraries and various self-hostable applications.",
       "highlights": [
         "EasyVCR - An open-source Java and .NET utility for recording and replaying HTTP requests in automated test suites",
-        "Tauticord - A Discord bot for viewing and managing Plex streams via Tautulli",
+        "Tauticord - A self-hostable Discord bot for viewing and managing Plex Media Server streams via the Tautulli companion monitoring software",
         "Pytulli - The de-facto, feature-complete Python API client for Tautulli",
-        "Plex Prerolls - A cron-based script to adjust preroll videos for a Plex Media Server based on defined schedules and holidays"
-      ],
-      "summary": "Producing and contributing to a number of free and open-source projects, including testing utilities, interactive social media bots, Python API client libraries, Tautulli and Home Assistant.",
-      "url": "https://github.com/nwithan8"
+        "Home Assistant - Contributed integration extensions, Docker application add-ons, importable automation blueprints, and documentation improvements",
+        "Unraid - One of the leading contributors to the Unraid community applications store, porting Docker applications to easy-to-install templates, significantly increasing each application's potential user base"
+      ]
     },
     {
       "name": "Force 5 Inc.",
+      "location": "Miami, FL",
+      "url": "https://force5.com",
       "position": "Software Developer Analyst",
       "startDate": "2020-06-30",
       "endDate": "2021-11-30",
-      "highlights": [],
-      "summary": "Developer on suite of on-site, cross-platform visitor management system applications, including mobile Android/iOS app.\n\nLead team in restructure of backend API.\n\nGo-to for internal DevOps and automation development and implementation.\n\nLanguages/tools used include C#, Xamarin.Forms, Groovy, Java and Grails/Gradle.\n\nLiaison between development team and end users regarding NERC CIP compliance instruments for energy corporation clients.",
-      "url": "https://www.linkedin.com/company/force-5-inc./",
-      "location": "Miami, Florida, United States"
+      "summary": "Developer on a suite of on-site visitor management system applications for NERC CIP compliance for energy corporation clients.",
+      "highlights": [
+        "Head developer of cross-platform (Xamarin.Forms) mobile app for visitor check-in and check-out",
+        "Implemented various new features and services, including facial-recognition- and QR-code-based identification methods and fuzzy-match-powered watchlist enforcement",
+        "Maintained remote-site database syncing mechanisms through locked-down, air-gapped networks",
+        "Orchestrated restructure of backend API and reduction of technical debt",
+        "Served as go-to source for internal devops, including task-tracking automation and CI/CD pipelines",
+        "Acted as liaison between development team and end users regarding NERC CIP compliance instruments for energy corporation clients"
+      ]
     },
     {
-      "name": "Fulton County Government",
+      "name": "Fulton County Government - IT Department",
+      "location": "Atlanta, GA",
+      "url": "https://fultoncountyga.gov",
       "position": "Digital Business Transformation Intern",
       "startDate": "2019-10-31",
       "endDate": "2020-06-30",
-      "highlights": [],
-      "summary": "Data Analytics: Curated data collection on current and former interns, capstone students and grant workers to assess Center of Excellence performance. Data stored in MS SQL database and analyzed using Tableau and Socrata.\n\nTechnology Integration: Researched and established policy and standard operating procedures for the implementation of new technologies in various county departments, including collaborative iPads and customer service survey kiosks.\n\nDevelopment: Wrote and implemented a Qualtrics API library in Python for use in in-house automation scripts for survey creation, management and response processing.",
-      "url": "https://www.linkedin.com/company/fultoncountygovernment/",
-      "location": "Greater Atlanta Area"
+      "summary": "Intern in the Center of Excellence, heading and assisting various technology projects and meta-program management.",
+      "highlights": [
+        "Developed and implemented a Qualtrics API library in Python for use in in-house automation scripts for survey creation, management and response processing",
+        "Curated data collection (MS SQL) and conducted analysis (Tableau) on current and former interns, capstone students and grant workers to assess Center of Excellence KPIs.",
+        "Served as project manager on various new technology implementation projects, including collaborative departmental iPads and customer service survey kiosks across various county facilities"
+      ]
     },
     {
-      "name": "Gannett | USA TODAY NETWORK",
+      "name": "Gannett | USA Today Network",
+      "location": "Zanesville, OH",
+      "url": "https://www.linkedin.com/company/gannett/",
       "position": "Community Reporter",
       "startDate": "2018-07-31",
       "endDate": "2019-03-31",
-      "highlights": [],
       "summary": "Community reporter, covering local city and county government, school and community boards and crime.",
-      "url": "https://www.linkedin.com/company/gannett/",
-      "location": "Zanesville, OH"
+      "highlights": []
     },
     {
       "name": "CNN",
+      "location": "Atlanta, GA",
+      "url": "https://cnn.com",
       "position": "TV Apps Intern",
       "startDate": "2018-06-30",
       "endDate": "2018-07-31",
-      "highlights": [],
-      "summary": "Worked with the TV Apps development team to produce, update and debug the CNNgo app on Apple TV, Roku, Fire TV, Android TV and Samsung TV platforms.",
-      "url": "https://www.linkedin.com/company/cnn/",
-      "location": "Atlanta, GA"
+      "summary": "Worked with the TV Apps development team to produce the CNNgo on-demand and live-streaming television application.",
+      "highlights": [
+        "Debugged and QA-tested CNNgo app on various platforms, including Roku, Apple TV, Amazon Fire TV, Android TV and Samsung Smart TV",
+        "Facilitated communication between development team and end-user feedback and bug reports",
+        "Assisted in early-stage design phase of MVP for new CNNgo app"
+      ]
     },
     {
       "name": "The Red & Black",
+      "location": "Athens, GA",
+      "url": "https://redandblack.com",
       "position": "News Writer",
       "startDate": "2014-09-30",
       "endDate": "2018-05-31",
+      "summary": "Attend weekly meetings. Take responsibility for researching and writing articles, getting in contact with sources, keep editors updated about progress. Articles due weekly.",
       "highlights": [
         "Served as lead news desk editor in Fall 2016",
         "Served as city news desk editor in Spring 2016",
         "Served as lead investigative reporter in Spring 2018",
         "Served as senior city correspondent in Fall 2015"
-      ],
-      "summary": "Attend weekly meetings. Take responsibility for researching and writing articles, getting in contact with sources, keep editors updated about progress. Articles due weekly.",
-      "url": "https://www.linkedin.com/company/the-red-&-black-newspaper/",
-      "location": "Athens, Georgia"
+      ]
     },
     {
       "name": "Georgia News Lab",
+      "location": "Atlanta, GA",
+      "url": "https://www.linkedin.com/company/georgia-news-lab/",
       "position": "Investigative Reporter",
       "startDate": "2017-08-31",
       "endDate": "2018-05-31",
-      "highlights": [],
       "summary": "Chosen for select group of Georgia journalism students to learn investigative journalism hands-on, producing work for the Atlanta Journal-Constitution and WSB-TV.\nSolo project: Investigation in Atlanta mayoral candidate Ceasar Mitchell.\nGroup project: Investigation into a decade of deaths in local Georgia jails.",
-      "url": "https://www.linkedin.com/company/georgia-news-lab/",
-      "location": "Atlanta, Georgia"
+      "highlights": []
     },
     {
       "name": "Atlanta Journal-Constitution",
+      "location": "Athens, GA",
+      "url": "https://ajc.com",
       "position": "Freelance Reporter",
       "startDate": "2017-12-31",
       "endDate": "2018-01-31",
-      "highlights": [],
       "summary": "Cover Athens and University of Georgia-related news remotely, including UGA's 2017 football season and post-season.",
-      "url": "https://www.linkedin.com/company/atlanta-journal-constitution/",
-      "location": "Athens, Georgia Area"
+      "highlights": []
     },
     {
       "name": "Flagpole Magazine",
+      "location": "Athens, GA",
+      "url": "https://flagpole.com",
       "position": "News Reporter",
       "startDate": "2017-08-31",
       "endDate": "2017-12-31",
-      "highlights": [],
       "summary": "Covered politics and Athens area matters and events, including the House District 119 special election, campus carry at the University of Georgia and discrimination in downtown Athens.",
-      "url": "https://www.linkedin.com/company/flagpole-magazine/",
-      "location": "Athens, Georgia Area"
+      "highlights": []
     },
     {
       "name": "Atlanta Journal-Constitution",
-      "position": "News Reporter",
+      "location": "Atlanta, GA",
+      "url": "https://ajc.com",
+      "position": "Henry County News Reporter",
       "startDate": "2017-06-30",
       "endDate": "2017-08-31",
-      "highlights": [],
       "summary": "Served as Henry County beat reporter, covering county and city board meetings, a school board superintendent controversy and Confederate pride, as well as infant mortality in swimming pools and the new campus carry law, among others.",
-      "url": "https://www.linkedin.com/company/atlanta-journal-constitution/",
-      "location": "Greater Atlanta Area"
+      "highlights": []
     }
   ],
   "volunteer": [],
