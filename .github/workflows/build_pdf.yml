@@ -1,4 +1,4 @@
-name: Build PDF resume and store on GitHub
+name: Build PDF CV and store on GitHub
 on:
   push:
     branches:
@@ -7,7 +7,7 @@ on:
 
 jobs:
   build_pdf:
-    name: Build PDF resume and store on GitHub
+    name: Build PDF CV and store on GitHub
     runs-on: ubuntu-latest
     permissions:
       # Give the default GITHUB_TOKEN write permission to commit and push the
@@ -25,10 +25,10 @@ jobs:
       - name: Workaround for browser issue
         run: >
           echo "RESUME_PUPPETEER_NO_SANDBOX=1" >> $GITHUB_ENV
-      - name: Build PDF resume
-        run: npx resume export resume.pdf --format pdf --theme straightforward
-      - name: Commit PDF resume to repository
+      - name: Build PDF CV
+        run: npx resume export cv.pdf --format pdf --theme straightforward
+      - name: Commit PDF CV to repository
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          commit_message: Add PDF resume
-          file_pattern: resume.pdf
+          commit_message: Add PDF CV
+          file_pattern: cv.pdf
