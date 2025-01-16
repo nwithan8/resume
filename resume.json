@@ -59,7 +59,10 @@
       "position": "Podcast Host",
       "startDate": "2016-09-30",
       "summary": "Host of the \"Technically Speaking\" podcast and weekly \"Tech Chat\" on YouTube, discussing and dissecting the latest technology news.",
-      "highlights": []
+      "highlights": [
+        "Interview with Andrew Freed (Master Inventor, IBM) on the future virtual assistants and chatbots (2021)",
+        "Interview with Mohamed Elgendy (CEO, Kolena) on the world of deep learning and computer vision systems (2019)"
+      ]
     },
     {
       "url": "https://github.com/nwithan8",
