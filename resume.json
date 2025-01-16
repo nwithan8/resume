@@ -35,12 +35,12 @@
       "summary": "Developed internal and external systems and utilities to improve the end-user B2B and B2C shipping experience.",
       "highlights": [
         "Revitalized and redesigned EasyPost's open-source API client libraries (C#, Java, Python, Node.JS, Ruby, Golang, PHP), which handle 85% of EasyPost's API traffic, to ensure thread safety and improve performance and usability",
-        "Built CI/CD pipeline for EasyPost's open-source libraries, including automated testing and package compilation and deployment",
+        "Built CI/CD pipeline for EasyPost's open-source libraries (GitHub Actions), including automated testing and package compilation and deployment",
         "Migrated multiple internal services from monolithic to microservices architecture, improving scalability and reliability while reducing CI/CD pipeline complexity by 75%",
         "Led design and development of open-source HTTP VCR utility for Java and .NET (EasyVCR) used in automated test suites",
-        "Introduced Carrier Metadata API for EasyPost's shipping API, providing real-time, machine-queryable carrier information and service availability",
+        "Introduced Carrier Metadata microservice for EasyPost's shipping API, consolidating real-time, machine-queryable carrier information and service availability",
         "Spear-headed migration of EasyPost's API documentation to a new standalone platform and redesigned the documentation to be more mobile-user-friendly and accessible",
-        "Introduced new claims submission and tracking portal for EasyPost's insurance product",
+        "Integrated acquired company's claims submission and tracking portal into EasyPost's insurance provider ecosystem",
         "Established company-wide coding standards and best practices for various languages"
       ]
     },
