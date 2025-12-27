@@ -1,505 +1,532 @@
 {
-  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
-  "basics": {
-    "name": "Nathan Harris",
-    "label": "Full-Stack Software Engineer and Consultant | Professional Scrum Master",
-    "image": "https://raw.githubusercontent.com/nwithan8/nwithan8.github.io/master/images/headshot_transparent.png",
-    "email": "resume@nateharr.is",
-    "url": "https://nateharr.is",
-    "summary": "Excited to take head-on the fast-paced, high-stakes world of software development.\nRetired journalist.",
-    "location": {
-      "countryCode": "US",
-      "address": "Denver, Colorado"
-    },
-    "profiles": [
-      {
-        "network": "GitHub",
-        "username": "nwithan8",
-        "url": "https://github.com/nwithan8"
-      },
-      {
-        "network": "LinkedIn",
-        "username": "nwithan8",
-        "url": "https://linkedin.com/in/nwithan8/"
-      }
-    ]
-  },
-  "work": [
-    {
-      "name": "EasyPost",
-      "location": "Denver, CO",
-      "url": "https://easypost.com",
-      "position": "Software Engineer",
-      "startDate": "2021-11-30",
-      "endDate": "2025-01-08",
-      "summary": "Developed internal and external systems and utilities to improve the end-user B2B and B2C shipping experience.",
-      "highlights": [
-        "Revitalized and redesigned EasyPost's open-source API client libraries (C#, Java, Python, Node.JS, Ruby, Golang, PHP), which handle 85% of EasyPost's API traffic, to ensure thread safety and improve performance and usability",
-        "Built CI/CD pipeline for EasyPost's open-source libraries (GitHub Actions), including automated testing and package compilation and deployment",
-        "Migrated multiple internal services from monolithic to microservices architecture, improving scalability and reliability while reducing CI/CD pipeline complexity by 75%",
-        "Led design and development of open-source HTTP VCR utility for Java and .NET (EasyVCR) used in automated test suites",
-        "Introduced Carrier Metadata microservice for EasyPost's shipping API, consolidating real-time, machine-queryable carrier information and service availability",
-        "Spear-headed migration of EasyPost's API documentation to a new standalone platform and redesigned the documentation to be more mobile-user-friendly and accessible",
-        "Integrated acquired company's claims submission and tracking portal into EasyPost's insurance provider ecosystem",
-        "Established company-wide coding standards and best practices for various languages"
-      ]
-    },
-    {
-      "position": "Freelance Software Developer and Consultant",
-      "startDate": "2020-06-20",
-      "highlights": [
-          "FusionAuth - .NET software consultant on the FusionAuth .NET SDK, providing guidance and development on the SDK's design and implementation.",
-          "Montjoy - Product consultant and freelance app developer for early-stage startup providing paid, private livestream platform for remote, geolocation-based tours and communication.",
-          "Aidly IT - General consultant and Level 2 Support for cloud systems and boutique software solutions for small-business and non-profit IT consulting firm"
+    "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+    "basics": {
+        "name": "Nathan Harris",
+        "label": "Full-Stack Software Engineer and Consultant | Professional Scrum Master",
+        "image": "https://raw.githubusercontent.com/nwithan8/assets/main/images/headshot_transparent.png",
+        "email": "resume@nateharr.is",
+        "url": "https://nateharr.is",
+        "summary": "Excited to take head-on the fast-paced, high-stakes world of software development.\nRetired journalist.",
+        "location": {
+            "countryCode": "US",
+            "address": "Denver, Colorado"
+        },
+        "profiles": [
+            {
+                "network": "GitHub",
+                "username": "nwithan8",
+                "url": "https://github.com/nwithan8"
+            },
+            {
+                "network": "LinkedIn",
+                "username": "nwithan8",
+                "url": "https://linkedin.com/in/nwithan8/"
+            }
         ]
     },
-    {
-      "name": "Technically Speaking Podcast",
-      "url": "https://open.spotify.com/show/5CNi1AtKaLN9RaD4KMHMnt?si=2925fc6e940541fb",
-      "position": "Podcast Host",
-      "startDate": "2016-09-30",
-      "summary": "Host of the \"Technically Speaking\" podcast and weekly \"Tech Chat\" on YouTube, discussing and dissecting the latest technology news.",
-      "highlights": [
-        "Interview with Andrew Freed (Master Inventor, IBM) on the future virtual assistants and chatbots (2021)",
-        "Interview with Mohamed Elgendy (CEO, Kolena) on the world of deep learning and computer vision systems (2019)"
-      ]
-    },
-    {
-      "url": "https://github.com/nwithan8",
-      "position": "Open Source Developer",
-      "startDate": "2018-08-31",
-      "summary": "Producing and contributing to a number of free and open-source projects, including testing utilities, interactive social media bots, Python API client libraries and various self-hostable applications.",
-      "highlights": [
-        "EasyVCR - An open-source Java and .NET utility for recording and replaying HTTP requests in automated test suites",
-        "Tauticord - A self-hostable Discord bot for viewing and managing Plex Media Server streams via the Tautulli companion monitoring software",
-        "Pytulli - The de-facto, feature-complete Python API client for Tautulli",
-        "Home Assistant - Contributed integration extensions, Docker application add-ons, importable automation blueprints, and documentation improvements",
-        "Unraid - One of the leading contributors to the Unraid community applications store, porting Docker applications to easy-to-install templates, significantly increasing each application's potential user base"
-      ]
-    },
-    {
-      "name": "Force 5 Inc.",
-      "location": "Miami, FL",
-      "url": "https://force5.com",
-      "position": "Software Developer Analyst",
-      "startDate": "2020-06-30",
-      "endDate": "2021-11-30",
-      "summary": "Developer on a suite of on-site visitor management system applications for NERC CIP compliance for energy corporation clients.",
-      "highlights": [
-        "Head developer of cross-platform (Xamarin.Forms) mobile app for visitor check-in and check-out",
-        "Implemented various new features and services, including facial-recognition- and QR-code-based identification methods and fuzzy-match-powered watchlist enforcement",
-        "Maintained remote-site database syncing mechanisms through locked-down, air-gapped networks",
-        "Orchestrated restructure of backend API and reduction of technical debt",
-        "Served as go-to source for internal devops, including task-tracking automation and CI/CD pipelines",
-        "Acted as liaison between development team and end users regarding NERC CIP compliance instruments for energy corporation clients"
-      ]
-    },
-    {
-      "name": "Fulton County Government - IT Department",
-      "location": "Atlanta, GA",
-      "url": "https://fultoncountyga.gov",
-      "position": "Digital Business Transformation Intern",
-      "startDate": "2019-10-31",
-      "endDate": "2020-06-30",
-      "summary": "Intern in the Center of Excellence, heading and assisting various technology projects and meta-program management.",
-      "highlights": [
-        "Developed and implemented a Qualtrics API library in Python for use in in-house automation scripts for survey creation, management and response processing",
-        "Curated data collection (MS SQL) and conducted analysis (Tableau) on current and former interns, capstone students and grant workers to assess Center of Excellence KPIs",
-        "Served as project manager on various new technology implementation projects, including collaborative departmental iPads and customer service survey kiosks across various county facilities"
-      ]
-    },
-    {
-      "name": "Gannett | USA Today Network",
-      "location": "Zanesville, OH",
-      "url": "https://www.linkedin.com/company/gannett/",
-      "position": "Community Reporter",
-      "startDate": "2018-07-31",
-      "endDate": "2019-03-31",
-      "summary": "Community reporter, covering local city and county government, school and community boards and crime.",
-      "highlights": []
-    },
-    {
-      "name": "CNN",
-      "location": "Atlanta, GA",
-      "url": "https://cnn.com",
-      "position": "TV Apps Intern",
-      "startDate": "2018-06-30",
-      "endDate": "2018-07-31",
-      "summary": "Worked with the TV Apps development team to produce the CNNgo on-demand and live-streaming television application.",
-      "highlights": [
-        "Debugged and QA-tested CNNgo app on various platforms, including Roku, Apple TV, Amazon Fire TV, Android TV and Samsung Smart TV",
-        "Facilitated communication between development team and end-user feedback and bug reports",
-        "Assisted in early-stage design phase of MVP for new CNNgo app"
-      ]
-    },
-    {
-      "name": "The Red & Black",
-      "location": "Athens, GA",
-      "url": "https://redandblack.com",
-      "position": "News Writer",
-      "startDate": "2014-09-30",
-      "endDate": "2018-05-31",
-      "summary": "Attend weekly meetings. Take responsibility for researching and writing articles, getting in contact with sources, keep editors updated about progress. Articles due weekly.",
-      "highlights": [
-        "Served as lead news desk editor in Fall 2016",
-        "Served as city news desk editor in Spring 2016",
-        "Served as lead investigative reporter in Spring 2018",
-        "Served as senior city correspondent in Fall 2015"
-      ]
-    },
-    {
-      "name": "Georgia News Lab",
-      "location": "Atlanta, GA",
-      "url": "https://www.linkedin.com/company/georgia-news-lab/",
-      "position": "Investigative Reporter",
-      "startDate": "2017-08-31",
-      "endDate": "2018-05-31",
-      "summary": "Chosen for select group of Georgia journalism students to learn investigative journalism hands-on, producing work for the Atlanta Journal-Constitution and WSB-TV.\nSolo project: Investigation in Atlanta mayoral candidate Ceasar Mitchell.\nGroup project: Investigation into a decade of deaths in local Georgia jails.",
-      "highlights": []
-    },
-    {
-      "name": "Atlanta Journal-Constitution",
-      "location": "Athens, GA",
-      "url": "https://ajc.com",
-      "position": "Freelance Reporter",
-      "startDate": "2017-12-31",
-      "endDate": "2018-01-31",
-      "summary": "Cover Athens and University of Georgia-related news remotely, including UGA's 2017 football season and post-season.",
-      "highlights": []
-    },
-    {
-      "name": "Flagpole Magazine",
-      "location": "Athens, GA",
-      "url": "https://flagpole.com",
-      "position": "News Reporter",
-      "startDate": "2017-08-31",
-      "endDate": "2017-12-31",
-      "summary": "Covered politics and Athens area matters and events, including the House District 119 special election, campus carry at the University of Georgia and discrimination in downtown Athens.",
-      "highlights": []
-    },
-    {
-      "name": "Atlanta Journal-Constitution",
-      "location": "Atlanta, GA",
-      "url": "https://ajc.com",
-      "position": "Henry County News Reporter",
-      "startDate": "2017-06-30",
-      "endDate": "2017-08-31",
-      "summary": "Served as Henry County beat reporter, covering county and city board meetings, a school board superintendent controversy and Confederate pride, as well as infant mortality in swimming pools and the new campus carry law, among others.",
-      "highlights": []
+    "work": [
+        {
+            "name": "PaymentWorks",
+            "location": "Denver, CO",
+            "url": "https://paymentworks.com",
+            "position": "Software Engineer",
+            "startDate": "2025-07-14",
+            "summary": "Developing a comprehensive payee-payer connection and risk assessment platform for facilitating B2B payments",
+            "highlights": [
+                "Involved in major redesign of core platform architecture to improve scalability and reliability",
+                "Spear-headed adoption of Pydantic validation tooling into Django-based monolithic application",
+                "Explored internal and external application of AI technologies to improve user experience and developer efficiency"
+            ]
+        },
+        {
+            "name": "Charles Schwab",
+            "location": "Lone Tree, CO",
+            "url": "https://schwab.com",
+            "position": "Software Engineer",
+            "startDate": "2025-03-01",
+            "endDate": "2025-07-11",
+            "summary": "Developed internal systems automating data processing and reporting for Charles Schwab's ETF funds, in accordance with SEC regulations.",
+            "highlights": [
+                "Facilitated migration from legacy on-premise BitBucket VCS system to GitHub Enterprise",
+                "Implemented automated CI/CD pipelines using GitHub Actions for multiple internal applications",
+                "Spear-headed internal Python test suite and standards for automated testing"
+            ]
+        },
+        {
+            "name": "EasyPost",
+            "location": "Denver, CO",
+            "url": "https://easypost.com",
+            "position": "Software Engineer",
+            "startDate": "2021-11-30",
+            "endDate": "2025-01-08",
+            "summary": "Developed internal and external systems and utilities to improve the end-user B2B and B2C shipping experience.",
+            "highlights": [
+                "Revitalized and redesigned EasyPost's open-source API client libraries (C#, Java, Python, Node.JS, Ruby, Golang, PHP), which handle 85% of EasyPost's API traffic, to ensure thread safety and improve performance and usability",
+                "Built CI/CD pipeline for EasyPost's open-source libraries (GitHub Actions), including automated testing and package compilation and deployment",
+                "Migrated multiple internal services from monolithic to microservices architecture, improving scalability and reliability while reducing CI/CD pipeline complexity by 75%",
+                "Led design and development of open-source HTTP VCR utility for Java and .NET (EasyVCR) used in automated test suites",
+                "Introduced Carrier Metadata microservice for EasyPost's shipping API, consolidating real-time, machine-queryable carrier information and service availability",
+                "Spear-headed migration of EasyPost's API documentation to a new standalone platform and redesigned the documentation to be more mobile-user-friendly and accessible",
+                "Integrated acquired company's claims submission and tracking portal into EasyPost's insurance provider ecosystem",
+                "Established company-wide coding standards and best practices for various languages"
+            ]
+        },
+        {
+            "position": "Freelance Software Developer and Consultant",
+            "startDate": "2020-06-20",
+            "highlights": [
+                "FusionAuth - .NET software consultant on the FusionAuth .NET SDK, providing guidance and development on the SDK's design and implementation.",
+                "Montjoy - Product consultant and freelance app developer for early-stage startup providing paid, private livestream platform for remote, geolocation-based tours and communication.",
+                "Aidly IT - General consultant and Level 2 Support for cloud systems and boutique software solutions for small-business and non-profit IT consulting firm"
+            ]
+        },
+        {
+            "name": "Technically Speaking Podcast",
+            "url": "https://open.spotify.com/show/5CNi1AtKaLN9RaD4KMHMnt?si=2925fc6e940541fb",
+            "position": "Podcast Host",
+            "startDate": "2016-09-30",
+            "summary": "Host of the \"Technically Speaking\" podcast and weekly \"Tech Chat\" on YouTube, discussing and dissecting the latest technology news.",
+            "highlights": [
+                "Interview with Andrew Freed (Master Inventor, IBM) on the future virtual assistants and chatbots (2021)",
+                "Interview with Mohamed Elgendy (CEO, Kolena) on the world of deep learning and computer vision systems (2019)"
+            ]
+        },
+        {
+            "url": "https://github.com/nwithan8",
+            "position": "Open Source Developer",
+            "startDate": "2018-08-31",
+            "summary": "Producing and contributing to a number of free and open-source projects, including testing utilities, interactive social media bots, Python API client libraries and various self-hostable applications.",
+            "highlights": [
+                "EasyVCR - An open-source Java and .NET utility for recording and replaying HTTP requests in automated test suites",
+                "Tauticord - A self-hostable Discord bot for viewing and managing Plex Media Server streams via the Tautulli companion monitoring software",
+                "Pytulli - The de-facto, feature-complete Python API client for Tautulli",
+                "Home Assistant - Contributed integration extensions, Docker application add-ons, importable automation blueprints, and documentation improvements",
+                "Unraid - One of the leading contributors to the Unraid community applications store, porting Docker applications to easy-to-install templates, significantly increasing each application's potential user base"
+            ]
+        },
+        {
+            "name": "Force 5 Inc.",
+            "location": "Miami, FL",
+            "url": "https://force5.com",
+            "position": "Software Developer Analyst",
+            "startDate": "2020-06-30",
+            "endDate": "2021-11-30",
+            "summary": "Developer on a suite of on-site visitor management system applications for NERC CIP compliance for energy corporation clients.",
+            "highlights": [
+                "Head developer of cross-platform (Xamarin.Forms) mobile app for visitor check-in and check-out",
+                "Implemented various new features and services, including facial-recognition- and QR-code-based identification methods and fuzzy-match-powered watchlist enforcement",
+                "Maintained remote-site database syncing mechanisms through locked-down, air-gapped networks",
+                "Orchestrated restructure of backend API and reduction of technical debt",
+                "Served as go-to source for internal devops, including task-tracking automation and CI/CD pipelines",
+                "Acted as liaison between development team and end users regarding NERC CIP compliance instruments for energy corporation clients"
+            ]
+        },
+        {
+            "name": "Fulton County Government - IT Department",
+            "location": "Atlanta, GA",
+            "url": "https://fultoncountyga.gov",
+            "position": "Digital Business Transformation Intern",
+            "startDate": "2019-10-31",
+            "endDate": "2020-06-30",
+            "summary": "Intern in the Center of Excellence, heading and assisting various technology projects and meta-program management.",
+            "highlights": [
+                "Developed and implemented a Qualtrics API library in Python for use in in-house automation scripts for survey creation, management and response processing",
+                "Curated data collection (MS SQL) and conducted analysis (Tableau) on current and former interns, capstone students and grant workers to assess Center of Excellence KPIs",
+                "Served as project manager on various new technology implementation projects, including collaborative departmental iPads and customer service survey kiosks across various county facilities"
+            ]
+        },
+        {
+            "name": "Gannett | USA Today Network",
+            "location": "Zanesville, OH",
+            "url": "https://www.linkedin.com/company/gannett/",
+            "position": "Community Reporter",
+            "startDate": "2018-07-31",
+            "endDate": "2019-03-31",
+            "summary": "Community reporter, covering local city and county government, school and community boards and crime.",
+            "highlights": []
+        },
+        {
+            "name": "CNN",
+            "location": "Atlanta, GA",
+            "url": "https://cnn.com",
+            "position": "TV Apps Intern",
+            "startDate": "2018-06-30",
+            "endDate": "2018-07-31",
+            "summary": "Worked with the TV Apps development team to produce the CNNgo on-demand and live-streaming television application.",
+            "highlights": [
+                "Debugged and QA-tested CNNgo app on various platforms, including Roku, Apple TV, Amazon Fire TV, Android TV and Samsung Smart TV",
+                "Facilitated communication between development team and end-user feedback and bug reports",
+                "Assisted in early-stage design phase of MVP for new CNNgo app"
+            ]
+        },
+        {
+            "name": "The Red & Black",
+            "location": "Athens, GA",
+            "url": "https://redandblack.com",
+            "position": "News Writer",
+            "startDate": "2014-09-30",
+            "endDate": "2018-05-31",
+            "summary": "Attend weekly meetings. Take responsibility for researching and writing articles, getting in contact with sources, keep editors updated about progress. Articles due weekly.",
+            "highlights": [
+                "Served as lead news desk editor in Fall 2016",
+                "Served as city news desk editor in Spring 2016",
+                "Served as lead investigative reporter in Spring 2018",
+                "Served as senior city correspondent in Fall 2015"
+            ]
+        },
+        {
+            "name": "Georgia News Lab",
+            "location": "Atlanta, GA",
+            "url": "https://www.linkedin.com/company/georgia-news-lab/",
+            "position": "Investigative Reporter",
+            "startDate": "2017-08-31",
+            "endDate": "2018-05-31",
+            "summary": "Chosen for select group of Georgia journalism students to learn investigative journalism hands-on, producing work for the Atlanta Journal-Constitution and WSB-TV.\nSolo project: Investigation in Atlanta mayoral candidate Ceasar Mitchell.\nGroup project: Investigation into a decade of deaths in local Georgia jails.",
+            "highlights": []
+        },
+        {
+            "name": "Atlanta Journal-Constitution",
+            "location": "Athens, GA",
+            "url": "https://ajc.com",
+            "position": "Freelance Reporter",
+            "startDate": "2017-12-31",
+            "endDate": "2018-01-31",
+            "summary": "Cover Athens and University of Georgia-related news remotely, including UGA's 2017 football season and post-season.",
+            "highlights": []
+        },
+        {
+            "name": "Flagpole Magazine",
+            "location": "Athens, GA",
+            "url": "https://flagpole.com",
+            "position": "News Reporter",
+            "startDate": "2017-08-31",
+            "endDate": "2017-12-31",
+            "summary": "Covered politics and Athens area matters and events, including the House District 119 special election, campus carry at the University of Georgia and discrimination in downtown Athens.",
+            "highlights": []
+        },
+        {
+            "name": "Atlanta Journal-Constitution",
+            "location": "Atlanta, GA",
+            "url": "https://ajc.com",
+            "position": "Henry County News Reporter",
+            "startDate": "2017-06-30",
+            "endDate": "2017-08-31",
+            "summary": "Served as Henry County beat reporter, covering county and city board meetings, a school board superintendent controversy and Confederate pride, as well as infant mortality in swimming pools and the new campus carry law, among others.",
+            "highlights": []
+        }
+    ],
+    "volunteer": [],
+    "education": [
+        {
+            "institution": "Georgia State University",
+            "area": "Computer Science",
+            "studyType": "Bachelor of Science",
+            "startDate": "2019-12-31",
+            "endDate": "2020-12-31",
+            "score": "3.8 GPA",
+            "courses": []
+        },
+        {
+            "institution": "Grady College of Journalism and Mass Communication, University of Georgia",
+            "area": "Journalism",
+            "studyType": "Bachelor of Arts (A.B.J)",
+            "startDate": "2016-12-31",
+            "endDate": "2018-12-31",
+            "score": "",
+            "courses": [
+                "Photojournalism",
+                "Video Journalism",
+                "Multiplatform Reporting",
+                "Investigative Reporting",
+                "New Media Production"
+            ]
+        },
+        {
+            "institution": "The University of Georgia",
+            "area": "Minor in Computer Science, New Media Certificate",
+            "startDate": "2014-12-31",
+            "endDate": "2018-12-31",
+            "score": "3.76 GPA",
+            "courses": []
+        }
+    ],
+    "awards": [
+        {
+            "title": "Best Administration Reporter in the South - Second Place",
+            "date": "2016-05-31",
+            "awarder": "Society of Professional Journalists",
+            "summary": "Received the award from the 66th Annual Green Eyeshade Awards for coverage of the administration at the University of Georgia during my time at The Red & Black."
+        }
+    ],
+    "certificates": [
+        {
+            "name": "Professional Scrum Master I (PSM I)",
+            "issuer": "Scrum.org",
+            "startDate": "2021-06-30",
+            "url": "https://www.scrum.org/certificates/676174"
+        }
+    ],
+    "publications": [
+        {
+            "name": "Journalism Portfolio",
+            "publisher": "Self",
+            "summary": "",
+            "url": "https://nwithan8.contently.com/"
+        }
+    ],
+    "skills": [
+        {
+            "name": "Programming Languages",
+            "level": "Advanced",
+            "keywords": [
+                "Java",
+                ".NET",
+                "C#",
+                "Python",
+                "Node.js",
+                "Javascript",
+                "HTML",
+                "CSS",
+                "Ruby",
+                "PHP",
+                "Golang",
+                "Dart",
+                "Flutter",
+                "Groovy",
+                "Grails",
+                "Scala",
+                "SQL"
+            ]
+        },
+        {
+            "name": "Software Development",
+            "level": "Advanced",
+            "keywords": [
+                "Version Control Systems",
+                "Git",
+                "REST API design",
+                "Microservices",
+                "Database",
+                "ORM",
+                "MySQL",
+                "SQLite",
+                "Postgres",
+                "JetBrains",
+                "IntelliJ",
+                "PyCharm",
+                "RubyMine",
+                "WebStorm",
+                "Rider",
+                "GoLand",
+                "PhpStorm",
+                "VS Code",
+                "Visual Studio",
+                "User Experience",
+                "Open Source Software",
+                "GitHub",
+                "Gitea"
+            ]
+        },
+        {
+            "name": "Automation",
+            "level": "Advanced",
+            "keywords": [
+                "Scripting",
+                "Python",
+                "Selenium",
+                "Playwright",
+                "Jenkins",
+                "CI/CD"
+            ]
+        },
+        {
+            "name": "System Administration",
+            "level": "Advanced",
+            "keywords": [
+                "Linux",
+                "Unraid",
+                "Docker",
+                "Docker Compose",
+                "Portainer",
+                "Kubernetes",
+                "Self-Hosting",
+                "Homelab",
+                "Deployment",
+                "Scaling"
+            ]
+        },
+        {
+            "name": "Developer Experience",
+            "level": "Advanced",
+            "keywords": [
+                "Documentation",
+                "Code Snippets",
+                "Examples",
+                "Guides",
+                "SDKs",
+                "Tutorials"
+            ]
+        },
+        {
+            "name": "Communication",
+            "level": "Advanced",
+            "keywords": [
+                "Public Speaking",
+                "Writing",
+                "Creative Writing",
+                "Podcasting",
+                "YouTube"
+            ]
+        },
+        {
+            "name": "Journalism",
+            "level": "Advanced",
+            "keywords": [
+                "Gannett Co. Inc.",
+                "USA Today Network",
+                "CNN",
+                "The Atlanta Journal-Constitution",
+                "The Zanesville Times Recorder",
+                "The Red & Black Publishing Co.",
+                "Flagpole Magazine",
+                "Fact-checking",
+                "Research",
+                "Editing",
+                "Breaking News",
+                "AP Style",
+                "Copy Editing"
+            ]
+        },
+        {
+            "name": "Operating Systems",
+            "level": "Advanced",
+            "keywords": [
+                "Windows",
+                "Mac OS",
+                "Linux",
+                "Ubuntu",
+                "Unraid",
+                "ProxMox",
+                "Docker",
+                "Hypervisor",
+                "Virtualization"
+            ]
+        },
+        {
+            "name": "Microsoft Office",
+            "level": "Advanced",
+            "keywords": [
+                "Word",
+                "Excel",
+                "PowerPoint",
+                "Outlook",
+                "Access"
+            ]
+        },
+        {
+            "name": "Artificial Intelligence",
+            "level": "Intermediate",
+            "keywords": [
+                "Machine Learning",
+                "TensorFlow",
+                "PyTorch",
+                "OpenCV",
+                "Natural Language Processing",
+                "NLTK",
+                "OpenAI",
+                "Llama",
+                "Qwen",
+                "Ollama",
+                "GitHub Copilot"
+            ]
+        },
+        {
+            "name": "Project Management",
+            "level": "Intermediate",
+            "keywords": [
+                "Agile",
+                "Scrum",
+                "Phabricator",
+                "YouTrack"
+            ]
+        },
+        {
+            "name": "Data Analysis",
+            "level": "Intermediate",
+            "keywords": [
+                "SQL",
+                "SQLite",
+                "MySQL",
+                "MS SQL Server",
+                "Tableau",
+                "Socrata"
+            ]
+        },
+        {
+            "name": "Web Development",
+            "level": "Intermediate",
+            "keywords": [
+                "React",
+                "Bootstrap",
+                "Material Design",
+                "CSS",
+                "HTML",
+                "Javascript",
+                "jQuery",
+                "UX/UI"
+            ]
+        },
+        {
+            "name": "Network Engineering",
+            "level": "Intermediate",
+            "keywords": [
+                "Unifi",
+                "pfSense",
+                "Ubiquiti",
+                "Firewall",
+                "VLANs",
+                "Ad-Blocking",
+                "DNS",
+                "DHCP",
+                "WireGuard",
+                "OpenVPN",
+                "VPN",
+                "Access Point"
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "fluency": "Native Speaker"
+        }
+    ],
+    "interests": [],
+    "references": [],
+    "projects": [
+        {
+            "name": "Open-Source Development",
+            "startDate": "2018-07-31",
+            "summary": "Freelance and free-time open-source developer (primarily Python), producing a number of API wrapper libraries, automation scripts and self-hosted social media bots.",
+            "url": "https://github.com/nwithan8"
+        },
+        {
+            "name": "College At All Costs",
+            "startDate": "2017-08-31",
+            "summary": "A website built from the ground up to host a special investigation project into the cost of higher education in the state of Georgia.\n\nI led the team in developing and coding the website, with a specific focus on Javascript functionality.",
+            "url": "https://www.collegeatallcosts.com/index.html",
+            "endDate": "2017-12-31"
+        },
+        {
+            "name": "Proposed Georgia Campus Carry Legislation",
+            "startDate": "2016-01-31",
+            "summary": "Georgia General Assembly proposed HB 859 to allow concealed carry on college campuses. Bill had large disapproval and protests. Main article in multi-piece coverage of protests, legislation updates, and student body surveying.",
+            "url": "https://www.redandblack.com/athensnews/gov-deal-to-decide-on-campus-carry-proposal/article_4c601c50-ebd7-11e5-b0a9-cfb8ba29864f.html",
+            "endDate": "2016-05-31"
+        }
+    ],
+    "meta": {
+        "version": "v1.0.0",
+        "canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json"
     }
-  ],
-  "volunteer": [],
-  "education": [
-    {
-      "institution": "Georgia State University",
-      "area": "Computer Science",
-      "studyType": "Bachelor of Science",
-      "startDate": "2019-12-31",
-      "endDate": "2020-12-31",
-      "score": "3.8 GPA",
-      "courses": []
-    },
-    {
-      "institution": "Grady College of Journalism and Mass Communication, University of Georgia",
-      "area": "Journalism",
-      "studyType": "Bachelor of Arts (A.B.J)",
-      "startDate": "2016-12-31",
-      "endDate": "2018-12-31",
-      "score": "",
-      "courses": [
-        "Photojournalism",
-        "Video Journalism",
-        "Multiplatform Reporting",
-        "Investigative Reporting",
-        "New Media Production"
-      ]
-    },
-    {
-      "institution": "The University of Georgia",
-      "area": "Minor in Computer Science, New Media Certificate",
-      "startDate": "2014-12-31",
-      "endDate": "2018-12-31",
-      "score": "3.76 GPA",
-      "courses": []
-    }
-  ],
-  "awards": [
-    {
-      "title": "Best Administration Reporter in the South - Second Place",
-      "date": "2016-05-31",
-      "awarder": "Society of Professional Journalists",
-      "summary": "Received the award from the 66th Annual Green Eyeshade Awards for coverage of the administration at the University of Georgia during my time at The Red & Black."
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Professional Scrum Master I (PSM I)",
-      "issuer": "Scrum.org",
-      "startDate": "2021-06-30",
-      "url": "https://www.scrum.org/certificates/676174"
-    }
-  ],
-  "publications": [
-    {
-      "name": "Journalism Portfolio",
-      "publisher": "Self",
-      "summary": "",
-      "url": "https://nwithan8.contently.com/"
-    }
-  ],
-  "skills": [
-    {
-      "name": "Programming Languages",
-      "level": "Advanced",
-      "keywords": [
-        "Java",
-        ".NET",
-        "C#",
-        "Python",
-        "Node.js",
-        "Javascript",
-        "HTML",
-        "CSS",
-        "Ruby",
-        "PHP",
-        "Golang",
-        "Dart",
-        "Flutter",
-        "Groovy",
-        "Grails",
-        "Scala",
-        "SQL"
-      ]
-    },
-    {
-      "name": "Software Development",
-      "level": "Advanced",
-      "keywords": [
-        "Version Control Systems",
-        "Git",
-        "REST API design",
-        "Microservices",
-        "Database",
-        "ORM",
-        "MySQL",
-        "SQLite",
-        "Postgres",
-        "JetBrains",
-        "IntelliJ",
-        "PyCharm",
-        "RubyMine",
-        "WebStorm",
-        "Rider",
-        "GoLand",
-        "PhpStorm",
-        "VS Code",
-        "Visual Studio",
-        "User Experience",
-        "Open Source Software",
-        "GitHub",
-        "Gitea"
-      ]
-    },
-    {
-      "name": "Automation",
-      "level": "Advanced",
-      "keywords": [
-        "Scripting",
-        "Python",
-        "Selenium",
-        "Playwright",
-        "Jenkins",
-        "CI/CD"
-      ]
-    },
-    {
-      "name": "System Administration",
-      "level": "Advanced",
-      "keywords": [
-        "Linux",
-        "Unraid",
-        "Docker",
-        "Docker Compose",
-        "Portainer",
-        "Kubernetes",
-        "Self-Hosting",
-        "Homelab",
-        "Deployment",
-        "Scaling"
-      ]
-    },
-    {
-      "name": "Developer Experience",
-      "level": "Advanced",
-      "keywords": [
-        "Documentation",
-        "Code Snippets",
-        "Examples",
-        "Guides",
-        "SDKs",
-        "Tutorials"
-      ]
-    },
-    {
-      "name": "Communication",
-      "level": "Advanced",
-      "keywords": [
-        "Public Speaking",
-        "Writing",
-        "Creative Writing",
-        "Podcasting",
-        "YouTube"
-      ]
-    },
-    {
-      "name": "Journalism",
-      "level": "Advanced",
-      "keywords": [
-        "Gannett Co. Inc.",
-        "USA Today Network",
-        "CNN",
-        "The Atlanta Journal-Constitution",
-        "The Zanesville Times Recorder",
-        "The Red & Black Publishing Co.",
-        "Flagpole Magazine",
-        "Fact-checking",
-        "Research",
-        "Editing",
-        "Breaking News",
-        "AP Style",
-        "Copy Editing"
-      ]
-    },
-    {
-      "name": "Operating Systems",
-      "level": "Advanced",
-      "keywords": [
-        "Windows",
-        "Mac OS",
-        "Linux",
-        "Ubuntu",
-        "Unraid",
-        "ProxMox",
-        "Docker",
-        "Hypervisor",
-        "Virtualization"
-      ]
-    },
-    {
-      "name": "Microsoft Office",
-      "level": "Advanced",
-      "keywords": [
-        "Word",
-        "Excel",
-        "PowerPoint",
-        "Outlook",
-        "Access"
-      ]
-    },
-    {
-      "name": "Artificial Intelligence",
-      "level": "Intermediate",
-      "keywords": [
-        "Machine Learning",
-        "TensorFlow",
-        "PyTorch",
-        "OpenCV",
-        "Natural Language Processing",
-        "NLTK",
-        "OpenAI",
-        "Llama",
-        "Qwen",
-        "Ollama",
-        "GitHub Copilot"
-      ]
-    },
-    {
-      "name": "Project Management",
-      "level": "Intermediate",
-      "keywords": [
-        "Agile",
-        "Scrum",
-        "Phabricator",
-        "YouTrack"
-      ]
-    },
-    {
-      "name": "Data Analysis",
-      "level": "Intermediate",
-      "keywords": [
-        "SQL",
-        "SQLite",
-        "MySQL",
-        "MS SQL Server",
-        "Tableau",
-        "Socrata"
-      ]
-    },
-    {
-      "name": "Web Development",
-      "level": "Intermediate",
-      "keywords": [
-        "React",
-        "Bootstrap",
-        "Material Design",
-        "CSS",
-        "HTML",
-        "Javascript",
-        "jQuery",
-        "UX/UI"
-      ]
-    },
-    {
-      "name": "Network Engineering",
-      "level": "Intermediate",
-      "keywords": [
-        "Unifi",
-        "pfSense",
-        "Ubiquiti",
-        "Firewall",
-        "VLANs",
-        "Ad-Blocking",
-        "DNS",
-        "DHCP",
-        "WireGuard",
-        "OpenVPN",
-        "VPN",
-        "Access Point"
-      ]
-    }
-  ],
-  "languages": [
-    {
-      "language": "English",
-      "fluency": "Native Speaker"
-    }
-  ],
-  "interests": [],
-  "references": [],
-  "projects": [
-    {
-      "name": "Open-Source Development",
-      "startDate": "2018-07-31",
-      "summary": "Freelance and free-time open-source developer (primarily Python), producing a number of API wrapper libraries, automation scripts and self-hosted social media bots.",
-      "url": "https://github.com/nwithan8"
-    },
-    {
-      "name": "College At All Costs",
-      "startDate": "2017-08-31",
-      "summary": "A website built from the ground up to host a special investigation project into the cost of higher education in the state of Georgia.\n\nI led the team in developing and coding the website, with a specific focus on Javascript functionality.",
-      "url": "https://www.collegeatallcosts.com/index.html",
-      "endDate": "2017-12-31"
-    },
-    {
-      "name": "Proposed Georgia Campus Carry Legislation",
-      "startDate": "2016-01-31",
-      "summary": "Georgia General Assembly proposed HB 859 to allow concealed carry on college campuses. Bill had large disapproval and protests. Main article in multi-piece coverage of protests, legislation updates, and student body surveying.",
-      "url": "https://www.redandblack.com/athensnews/gov-deal-to-decide-on-campus-carry-proposal/article_4c601c50-ebd7-11e5-b0a9-cfb8ba29864f.html",
-      "endDate": "2016-05-31"
-    }
-  ],
-  "meta": {
-    "version": "v1.0.0",
-    "canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json"
-  }
 }
